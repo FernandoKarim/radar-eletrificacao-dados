@@ -1,0 +1,3647 @@
+{
+ "contagens": {
+  "subestacoes": {
+   "500-525": {
+    "SC": 9,
+    "MA": 13,
+    "RN": 14,
+    "RJ": 12,
+    "MG": 33,
+    "SP": 11,
+    "PR": 12,
+    "BA": 32,
+    "DF": 2,
+    "PB": 5,
+    "RS": 15,
+    "MT": 8,
+    "RO": 1,
+    "TO": 6,
+    "RR": 1,
+    "CE": 11,
+    "PE": 6,
+    "PI": 17,
+    "PA": 10,
+    "SE": 3,
+    "AM": 2,
+    "GO": 6,
+    "AL": 2,
+    "ES": 3,
+    "sem UF": 1
+   },
+   "230": {
+    "RO": 8,
+    "CE": 40,
+    "RN": 35,
+    "GO": 28,
+    "RS": 87,
+    "PA": 24,
+    "MS": 13,
+    "PR": 50,
+    "PE": 38,
+    "SP": 33,
+    "MG": 28,
+    "AL": 9,
+    "AM": 7,
+    "MA": 15,
+    "MT": 19,
+    "SC": 25,
+    "BA": 87,
+    "RR": 2,
+    "PI": 17,
+    "DF": 1,
+    "PB": 10,
+    "SE": 3,
+    "AP": 5,
+    "ES": 4,
+    "RJ": 1,
+    "TO": 3,
+    "AC": 4
+   },
+   "345-440": {
+    "SP": 52,
+    "GO": 3,
+    "MG": 31,
+    "DF": 1,
+    "RJ": 10,
+    "MS": 4,
+    "ES": 3
+   },
+   "600+": {
+    "PR": 2,
+    "SP": 4,
+    "RJ": 1,
+    "GO": 1
+   },
+   "138": {
+    "AM": 10,
+    "AP": 4,
+    "RS": 85,
+    "SP": 604,
+    "MG": 572,
+    "PR": 172,
+    "SC": 148,
+    "RJ": 182,
+    "ES": 67,
+    "AC": 1,
+    "MS": 56,
+    "MT": 89,
+    "PB": 1,
+    "RO": 16,
+    "TO": 41,
+    "GO": 58,
+    "DF": 24,
+    "MA": 9,
+    "PA": 61,
+    "PI": 8,
+    "sem UF": 2,
+    "BA": 85,
+    "RN": 1,
+    "PE": 13
+   },
+   "69-88": {
+    "AM": 26,
+    "AP": 11,
+    "RS": 262,
+    "SP": 558,
+    "PR": 21,
+    "SC": 73,
+    "MG": 106,
+    "BA": 243,
+    "GO": 93,
+    "ES": 48,
+    "CE": 214,
+    "sem UF": 3,
+    "RJ": 61,
+    "AC": 12,
+    "MS": 8,
+    "MT": 7,
+    "PB": 71,
+    "RO": 33,
+    "SE": 50,
+    "TO": 10,
+    "AL": 63,
+    "MA": 106,
+    "PA": 56,
+    "PI": 70,
+    "DF": 4,
+    "RN": 86,
+    "PE": 195,
+    "RR": 16
+   }
+  },
+  "linhas": {
+   "230": {
+    "GO": 62,
+    "MG": 61,
+    "BA": 177,
+    "PB": 34,
+    "PE": 94,
+    "RS": 197,
+    "PR": 139,
+    "SC": 92,
+    "PA": 64,
+    "MS": 31,
+    "DF": 5,
+    "CE": 87,
+    "MA": 34,
+    "SP": 72,
+    "PI": 32,
+    "MT": 58,
+    "RO": 38,
+    "AM": 23,
+    "AP": 10,
+    "TO": 11,
+    "SE": 14,
+    "RN": 63,
+    "RR": 2,
+    "AL": 43,
+    "ES": 6,
+    "RJ": 1,
+    "AC": 6
+   },
+   "500-525": {
+    "CE": 24,
+    "RN": 19,
+    "MT": 25,
+    "MA": 49,
+    "PI": 36,
+    "PA": 40,
+    "RS": 34,
+    "SC": 32,
+    "PR": 64,
+    "MG": 133,
+    "SP": 51,
+    "TO": 21,
+    "DF": 9,
+    "GO": 40,
+    "BA": 79,
+    "AL": 17,
+    "PE": 23,
+    "SE": 17,
+    "RJ": 32,
+    "RO": 9,
+    "sem UF": 4,
+    "PB": 11,
+    "AM": 6,
+    "ES": 7,
+    "RR": 4
+   },
+   "600+": {
+    "SP": 14,
+    "PR": 10,
+    "GO": 8,
+    "MG": 8,
+    "MT": 4,
+    "RO": 4,
+    "PA": 4,
+    "TO": 4,
+    "RJ": 2
+   },
+   "345-440": {
+    "SP": 147,
+    "MG": 91,
+    "MS": 15,
+    "RJ": 27,
+    "ES": 11,
+    "GO": 10,
+    "DF": 6
+   },
+   "69-88": {
+    "RS": 275,
+    "AM": 55,
+    "AP": 15,
+    "SP": 666,
+    "PR": 447,
+    "SC": 117,
+    "MG": 155,
+    "BA": 397,
+    "GO": 106,
+    "ES": 57,
+    "CE": 333,
+    "sem UF": 1,
+    "PB": 145,
+    "RJ": 66,
+    "AC": 19,
+    "MS": 9,
+    "MT": 11,
+    "PE": 367,
+    "RN": 147,
+    "RO": 45,
+    "SE": 103,
+    "AL": 125,
+    "TO": 10,
+    "MA": 163,
+    "DF": 15,
+    "PI": 92,
+    "PA": 95,
+    "RR": 18
+   },
+   "138": {
+    "AM": 16,
+    "AP": 5,
+    "RS": 63,
+    "SP": 422,
+    "MG": 749,
+    "SC": 221,
+    "GO": 6,
+    "PR": 1532,
+    "ES": 102,
+    "RJ": 266,
+    "AC": 1,
+    "MS": 89,
+    "MT": 147,
+    "PA": 72,
+    "RO": 15,
+    "TO": 47,
+    "MA": 10,
+    "PI": 9,
+    "DF": 40,
+    "BA": 117,
+    "RN": 2,
+    "PE": 14
+   }
+  },
+  "usinas": {
+   "etanol/operando": {
+    "MT": 29,
+    "GO": 44,
+    "PR": 24,
+    "AL": 18,
+    "BA": 6,
+    "MA": 6,
+    "MG": 40,
+    "AM": 1,
+    "SP": 144,
+    "ES": 3,
+    "MS": 23,
+    "PA": 1,
+    "PB": 8,
+    "PI": 1,
+    "TO": 1,
+    "RJ": 3,
+    "SE": 5,
+    "PE": 13,
+    "RN": 4,
+    "RS": 7,
+    "AC": 1
+   },
+   "etanol/construcao": {
+    "SP": 3,
+    "BA": 3,
+    "RS": 5,
+    "PR": 1,
+    "SC": 1,
+    "MT": 6,
+    "TO": 1,
+    "GO": 1,
+    "RO": 1
+   },
+   "biodiesel/operando": {
+    "MT": 17,
+    "SC": 2,
+    "RO": 2,
+    "PI": 1,
+    "RS": 9,
+    "PR": 4,
+    "PA": 3,
+    "BA": 3,
+    "GO": 8,
+    "MS": 3,
+    "TO": 1,
+    "RJ": 2,
+    "SP": 3,
+    "MG": 1
+   },
+   "biodiesel/construcao": {
+    "PR": 3,
+    "MT": 5,
+    "SC": 1,
+    "SP": 3,
+    "RR": 1,
+    "RS": 2
+   }
+  }
+ },
+ "totais_por_uf": {
+  "subestacoes": {
+   "SC": 255,
+   "RO": 58,
+   "MA": 143,
+   "CE": 265,
+   "RN": 136,
+   "RJ": 267,
+   "SP": 1262,
+   "MG": 770,
+   "GO": 189,
+   "RS": 449,
+   "PA": 151,
+   "MS": 81,
+   "PR": 257,
+   "PE": 252,
+   "AL": 74,
+   "AM": 45,
+   "MT": 123,
+   "BA": 447,
+   "RR": 19,
+   "PI": 112,
+   "DF": 32,
+   "PB": 87,
+   "TO": 60,
+   "SE": 56,
+   "AP": 20,
+   "ES": 125,
+   "AC": 17,
+   "sem UF": 6
+  },
+  "linhas": {
+   "GO": 232,
+   "MG": 1197,
+   "CE": 444,
+   "RN": 231,
+   "BA": 770,
+   "PB": 190,
+   "PE": 498,
+   "MT": 245,
+   "RS": 569,
+   "PR": 2192,
+   "SC": 462,
+   "MA": 256,
+   "PI": 169,
+   "PA": 275,
+   "MS": 144,
+   "SP": 1372,
+   "DF": 75,
+   "RJ": 394,
+   "ES": 183,
+   "TO": 93,
+   "AL": 185,
+   "SE": 134,
+   "RO": 111,
+   "AM": 100,
+   "AP": 30,
+   "RR": 24,
+   "sem UF": 5,
+   "AC": 26
+  },
+  "usinas": {
+   "MT": 57,
+   "GO": 53,
+   "PR": 32,
+   "AL": 18,
+   "BA": 12,
+   "MA": 6,
+   "MG": 41,
+   "AM": 1,
+   "SP": 153,
+   "ES": 3,
+   "MS": 26,
+   "PA": 4,
+   "PB": 8,
+   "PI": 2,
+   "TO": 3,
+   "RJ": 5,
+   "SE": 5,
+   "PE": 13,
+   "RN": 4,
+   "RS": 23,
+   "SC": 4,
+   "RO": 3,
+   "RR": 1,
+   "AC": 1
+  }
+ },
+ "km_linhas": {
+  "230": {
+   "GO": 4246.2,
+   "MG": 1627.6,
+   "BA": 8081.6,
+   "PB": 1216.8,
+   "PE": 3723.2,
+   "RS": 9017.3,
+   "PR": 6020.8,
+   "SC": 3409.1,
+   "PA": 4548.1,
+   "MS": 3579.1,
+   "DF": 97.2,
+   "CE": 4349.2,
+   "MA": 2470.7,
+   "SP": 1945.3,
+   "PI": 1816.8,
+   "MT": 6551.3,
+   "RO": 3536.4,
+   "AM": 586.9,
+   "AP": 821.4,
+   "TO": 712.0,
+   "SE": 689.9,
+   "RN": 2516.8,
+   "RR": 199.4,
+   "AL": 1156.0,
+   "ES": 330.2,
+   "RJ": 87.0,
+   "AC": 1043.4,
+   "sem UF": 14.8
+  },
+  "500-525": {
+   "CE": 2305.4,
+   "RN": 1222.5,
+   "MT": 4636.3,
+   "MA": 5207.1,
+   "PI": 4154.7,
+   "PA": 6443.8,
+   "SC": 2077.7,
+   "RS": 4328.5,
+   "PR": 5128.3,
+   "MG": 12860.4,
+   "SP": 5881.0,
+   "TO": 3544.8,
+   "GO": 4567.7,
+   "DF": 217.4,
+   "BA": 9561.1,
+   "PE": 2275.9,
+   "AL": 692.1,
+   "SE": 836.4,
+   "RJ": 1990.5,
+   "RO": 342.6,
+   "PB": 946.1,
+   "AM": 1343.9,
+   "ES": 798.2,
+   "RR": 957.7,
+   "sem UF": 81.5
+  },
+  "600+": {
+   "SP": 3363.5,
+   "PR": 3862.4,
+   "RO": 2622.5,
+   "MG": 2599.7,
+   "MT": 4039.0,
+   "GO": 3129.3,
+   "PA": 2512.3,
+   "TO": 2543.2,
+   "RJ": 130.5
+  },
+  "345-440": {
+   "SP": 9307.0,
+   "MG": 5952.7,
+   "MS": 33.9,
+   "RJ": 1427.1,
+   "ES": 609.3,
+   "GO": 949.1,
+   "DF": 104.8
+  },
+  "69-88": {
+   "RS": 5273.0,
+   "AM": 379.3,
+   "AP": 344.3,
+   "SP": 6564.6,
+   "PR": 833.3,
+   "SC": 1665.3,
+   "MG": 3832.0,
+   "BA": 7858.8,
+   "GO": 2587.6,
+   "ES": 1245.2,
+   "CE": 6161.1,
+   "PB": 2452.7,
+   "RJ": 1181.1,
+   "AC": 631.0,
+   "MS": 344.6,
+   "MT": 206.9,
+   "PE": 4758.5,
+   "RN": 2883.2,
+   "RO": 1314.0,
+   "SE": 1688.4,
+   "AL": 2136.9,
+   "TO": 391.4,
+   "MA": 4802.4,
+   "DF": 325.7,
+   "PI": 3271.8,
+   "PA": 1887.0,
+   "RR": 723.8,
+   "sem UF": 37.8
+  },
+  "138": {
+   "AM": 320.7,
+   "AP": 340.4,
+   "RS": 1597.9,
+   "SP": 9240.9,
+   "MG": 16975.5,
+   "SC": 4239.7,
+   "GO": 78.5,
+   "PR": 7677.3,
+   "ES": 2187.2,
+   "RJ": 3475.2,
+   "AC": 213.6,
+   "MS": 3400.2,
+   "MT": 6861.5,
+   "PA": 3976.0,
+   "RO": 770.7,
+   "TO": 2470.6,
+   "MA": 1062.6,
+   "PI": 258.3,
+   "DF": 564.5,
+   "BA": 4092.3,
+   "RN": 161.4,
+   "PE": 592.2,
+   "sem UF": 6.7
+  }
+ },
+ "percentuais": {
+  "subestacoes_com_capacidade": 0.0,
+  "subestacoes_com_carga": 0.0,
+  "usinas_com_coordenada_pesquisada": 3.3
+ },
+ "descartados": {
+  "EPE": {
+   "tensao_invalida": {
+    "total": 5,
+    "ids": [
+     "EPE:22330",
+     "EPE:22331",
+     "EPE:22332",
+     "EPE:22333",
+     "EPE:22334"
+    ]
+   }
+  },
+  "BDGD": {
+   "sem_tensao": {
+    "total": 1356,
+    "ids": [
+     "BDGD:Amazonas_Energia:5003225",
+     "BDGD:Amazonas_Energia:5003550",
+     "BDGD:CEEE_Equatorial:UFR02",
+     "BDGD:CEEE_Equatorial:TAN",
+     "BDGD:CEEE_Equatorial:GK2",
+     "BDGD:CPFL_Paulista:YAE",
+     "BDGD:CPFL_Paulista:YCH",
+     "BDGD:CPFL_Paulista:YAC",
+     "BDGD:CPFL_Paulista:YSF",
+     "BDGD:CPFL_Paulista:YVL",
+     "BDGD:CPFL_Paulista:YAS",
+     "BDGD:CPFL_Paulista:YMN",
+     "BDGD:CPFL_Paulista:YFA",
+     "BDGD:CPFL_Paulista:YDT",
+     "BDGD:CPFL_Paulista:YBD",
+     "BDGD:CPFL_Paulista:YDP",
+     "BDGD:CPFL_Paulista:YPE",
+     "BDGD:CPFL_Paulista:YMB",
+     "BDGD:CPFL_Paulista:YFE",
+     "BDGD:CPFL_Paulista:KBI",
+     "BDGD:CPFL_Paulista:YEM",
+     "BDGD:CPFL_Paulista:YBV",
+     "BDGD:CPFL_Paulista:YNE",
+     "BDGD:CPFL_Paulista:YBP",
+     "BDGD:CPFL_Paulista:YUM",
+     "BDGD:CPFL_Paulista:YUS",
+     "BDGD:CPFL_Paulista:YUU",
+     "BDGD:CPFL_Paulista:YNB",
+     "BDGD:CPFL_Paulista:YVE",
+     "BDGD:CPFL_Paulista:YNA",
+     "BDGD:CPFL_Paulista:YBS",
+     "BDGD:CPFL_Paulista:KIG",
+     "BDGD:CPFL_Paulista:YGI",
+     "BDGD:CPFL_Paulista:YCW",
+     "BDGD:CPFL_Paulista:KBG",
+     "BDGD:CPFL_Paulista:YUG",
+     "BDGD:CPFL_Paulista:YOD",
+     "BDGD:CPFL_Paulista:YBY",
+     "BDGD:CPFL_Paulista:YUH",
+     "BDGD:CPFL_Paulista:KBV",
+     "BDGD:CPFL_Paulista:KMC",
+     "BDGD:CPFL_Paulista:KMG",
+     "BDGD:CPFL_Paulista:KPC",
+     "BDGD:CPFL_Paulista:YDO",
+     "BDGD:CPFL_Paulista:YMQ",
+     "BDGD:CPFL_Paulista:YKB",
+     "BDGD:CPFL_Paulista:PAG",
+     "BDGD:CPFL_Paulista:RBO",
+     "BDGD:CPFL_Paulista:VPA",
+     "BDGD:CPFL_Piratininga:KBE"
+    ]
+   },
+   "abaixo_de_69kv": {
+    "total": 1132,
+    "ids": [
+     "BDGD:Amazonas_Energia:1019433125",
+     "BDGD:CEA_Equatorial:INJ",
+     "BDGD:CEA_Equatorial:APR",
+     "BDGD:CEA_Equatorial:PTG",
+     "BDGD:CEA_Equatorial:TRV",
+     "BDGD:CEA_Equatorial:RIP",
+     "BDGD:CEA_Equatorial:OIP",
+     "BDGD:CEEE_Equatorial:RS5",
+     "BDGD:CEEE_Equatorial:RN2",
+     "BDGD:CEEE_Equatorial:ES1",
+     "BDGD:CEEE_Equatorial:RS8",
+     "BDGD:CEEE_Equatorial:CGR",
+     "BDGD:CEEE_Equatorial:RN3",
+     "BDGD:CEEE_Equatorial:RS6",
+     "BDGD:CEEE_Equatorial:RS3",
+     "BDGD:CEEE_Equatorial:ES2",
+     "BDGD:CEEE_Equatorial:RN1",
+     "BDGD:CEEE_Equatorial:RS4",
+     "BDGD:CEEE_Equatorial:RS1",
+     "BDGD:CEEE_Equatorial:RN4",
+     "BDGD:CEEE_Equatorial:RS2",
+     "BDGD:CEEE_Equatorial:RS7",
+     "BDGD:CEEE_Equatorial:USJ",
+     "BDGD:CPFL_Paulista:SAA",
+     "BDGD:CPFL_Paulista:OCA",
+     "BDGD:CPFL_Paulista:REG",
+     "BDGD:CPFL_Paulista:TAB",
+     "BDGD:CPFL_Paulista:ITG",
+     "BDGD:CPFL_Paulista:UTS",
+     "BDGD:CPFL_Paulista:UCH",
+     "BDGD:CPFL_Paulista:UST",
+     "BDGD:CPFL_Paulista:UMO",
+     "BDGD:CPFL_Paulista:UCP",
+     "BDGD:CPFL_Paulista:UBU",
+     "BDGD:CPFL_Paulista:UES",
+     "BDGD:CPFL_Paulista:USG",
+     "BDGD:CPFL_Paulista:USO",
+     "BDGD:CPFL_Paulista:ARE",
+     "BDGD:CPFL_Paulista:BOF",
+     "BDGD:CPFL_Paulista:PDH",
+     "BDGD:CPFL_Paulista:SNO",
+     "BDGD:CPFL_Paulista:POT",
+     "BDGD:CPFL_Paulista:HER",
+     "BDGD:CPFL_Paulista:NEU",
+     "BDGD:CPFL_Paulista:SMS",
+     "BDGD:CPFL_Piratininga:COD",
+     "BDGD:CPFL_Santa_Cruz:MAN",
+     "BDGD:CPFL_Santa_Cruz:ASB",
+     "BDGD:CPFL_Santa_Cruz:CEC",
+     "BDGD:CPFL_Santa_Cruz:ADU"
+    ]
+   },
+   "posse_outro_distribuidor": {
+    "total": 653,
+    "ids": [
+     "BDGD:CEA_Equatorial:MD1",
+     "BDGD:CEEE_Equatorial:MFP",
+     "BDGD:CEEE_Equatorial:TEC",
+     "BDGD:CEEE_Equatorial:STH",
+     "BDGD:CEEE_Equatorial:PL3",
+     "BDGD:CEEE_Equatorial:PME",
+     "BDGD:CEEE_Equatorial:PB3",
+     "BDGD:CEEE_Equatorial:MFE",
+     "BDGD:CEEE_Equatorial:SPA",
+     "BDGD:CEEE_Equatorial:PRT",
+     "BDGD:CEEE_Equatorial:AT2",
+     "BDGD:CEEE_Equatorial:BI2",
+     "BDGD:CEEE_Equatorial:PB2",
+     "BDGD:CEEE_Equatorial:VON",
+     "BDGD:CEEE_Equatorial:VCI",
+     "BDGD:CEEE_Equatorial:BG2",
+     "BDGD:CEEE_Equatorial:IBR",
+     "BDGD:CEEE_Equatorial:TAG",
+     "BDGD:CEEE_Equatorial:YB1",
+     "BDGD:CEEE_Equatorial:OS2",
+     "BDGD:CEEE_Equatorial:COR",
+     "BDGD:CEEE_Equatorial:P10",
+     "BDGD:CEEE_Equatorial:P09",
+     "BDGD:CEEE_Equatorial:RM2",
+     "BDGD:CEEE_Equatorial:QUI",
+     "BDGD:CEEE_Equatorial:MFR",
+     "BDGD:CEEE_Equatorial:ROL",
+     "BDGD:CEEE_Equatorial:TER",
+     "BDGD:CEEE_Equatorial:GU2",
+     "BDGD:CEEE_Equatorial:REX",
+     "BDGD:CEEE_Equatorial:APG",
+     "BDGD:CEEE_Equatorial:GRA",
+     "BDGD:CEEE_Equatorial:BAL",
+     "BDGD:CEEE_Equatorial:PB4",
+     "BDGD:CEEE_Equatorial:ELD",
+     "BDGD:CEEE_Equatorial:MNA",
+     "BDGD:CEEE_Equatorial:FRP",
+     "BDGD:CEEE_Equatorial:CM1",
+     "BDGD:CEEE_Equatorial:P13",
+     "BDGD:CEEE_Equatorial:P06",
+     "BDGD:Celesc-Dis:UVA",
+     "BDGD:Cemig-D:2539217179",
+     "BDGD:Cemig-D:1834693089",
+     "BDGD:Cemig-D:2723239732",
+     "BDGD:Cemig-D:2723239742",
+     "BDGD:Cemig-D:2607167390",
+     "BDGD:Cemig-D:2607167378",
+     "BDGD:Cemig-D:2723239729",
+     "BDGD:Cemig-D:4336940",
+     "BDGD:Cemig-D:207855364"
+    ]
+   },
+   "tensao_nao_informada": {
+    "total": 369,
+    "ids": [
+     "BDGD:Cemirim:2_CTEEP_1",
+     "BDGD:Ceripa:1_CTEEP_1",
+     "BDGD:Enel_RJ:65099169",
+     "BDGD:Enel_RJ:67558592",
+     "BDGD:Enel_RJ:67558617",
+     "BDGD:Enel_RJ:113662630",
+     "BDGD:Enel_RJ:113666804",
+     "BDGD:Enel_RJ:113666807",
+     "BDGD:Enel_RJ:66570703",
+     "BDGD:Enel_RJ:84981946",
+     "BDGD:Enel_RJ:82472780",
+     "BDGD:Enel_RJ:67297068",
+     "BDGD:Enel_RJ:71868919",
+     "BDGD:Enel_RJ:86202546",
+     "BDGD:Enel_RJ:1871",
+     "BDGD:Enel_RJ:2067",
+     "BDGD:Enel_RJ:2158",
+     "BDGD:Enel_RJ:69397625",
+     "BDGD:Enel_RJ:68478874",
+     "BDGD:Enel_RJ:2039",
+     "BDGD:Enel_RJ:65099198",
+     "BDGD:Enel_RJ:65099227",
+     "BDGD:Enel_RJ:65099255",
+     "BDGD:Enel_RJ:65099277",
+     "BDGD:Enel_RJ:71868952",
+     "BDGD:Enel_RJ:67893736",
+     "BDGD:Enel_RJ:67893765",
+     "BDGD:Enel_RJ:67558640",
+     "BDGD:Enel_RJ:64801768",
+     "BDGD:Enel_RJ:68263592",
+     "BDGD:Enel_RJ:68263650",
+     "BDGD:Enel_RJ:68263709",
+     "BDGD:Enel_RJ:96008888",
+     "BDGD:Enel_RJ:70486677",
+     "BDGD:Enel_RJ:72388998",
+     "BDGD:Enel_RJ:73200818",
+     "BDGD:Enel_RJ:77541136",
+     "BDGD:Enel_RJ:96008895",
+     "BDGD:Enel_RJ:84211323",
+     "BDGD:Enel_RJ:85391221",
+     "BDGD:Enel_RJ:85391610",
+     "BDGD:Enel_RJ:85392316",
+     "BDGD:Enel_RJ:85621844",
+     "BDGD:Enel_RJ:86043344",
+     "BDGD:Enel_RJ:86069243",
+     "BDGD:Enel_RJ:86318638",
+     "BDGD:Enel_RJ:94979006",
+     "BDGD:Enel_SP:LTAJAD-COT2",
+     "BDGD:Enel_SP:LTAJAD-COT1",
+     "BDGD:Enel_SP:LTAEMG-ITP1"
+    ]
+   },
+   "tensao_ambigua": {
+    "total": 60,
+    "ids": [
+     "BDGD:Enel_RJ:102166268",
+     "BDGD:Enel_RJ:102166271",
+     "BDGD:Enel_RJ:72805099",
+     "BDGD:Enel_RJ:85841802",
+     "BDGD:Enel_RJ:66570706",
+     "BDGD:Enel_RJ:65339502",
+     "BDGD:Enel_RJ:1976",
+     "BDGD:Enel_RJ:1969",
+     "BDGD:Enel_RJ:2081",
+     "BDGD:Enel_RJ:70851323",
+     "BDGD:Enel_RJ:70671942",
+     "BDGD:Enel_RJ:68478900",
+     "BDGD:Enel_RJ:1962",
+     "BDGD:Enel_RJ:2018",
+     "BDGD:Enel_RJ:85999615",
+     "BDGD:Enel_RJ:65339534",
+     "BDGD:Enel_RJ:1920",
+     "BDGD:Enel_RJ:72804997",
+     "BDGD:Enel_RJ:72805070",
+     "BDGD:Enel_RJ:1934",
+     "BDGD:Enel_RJ:68264029",
+     "BDGD:Enel_RJ:72981193",
+     "BDGD:Enel_RJ:78236486",
+     "BDGD:Enel_RJ:85999603",
+     "BDGD:Enel_RJ:85091669",
+     "BDGD:Enel_RJ:85254646",
+     "BDGD:Enel_RJ:85390885",
+     "BDGD:Enel_RJ:85391103",
+     "BDGD:Enel_RJ:85392416",
+     "BDGD:Enel_RJ:85521307",
+     "BDGD:Enel_RJ:85889924",
+     "BDGD:Enel_RJ:86044129",
+     "BDGD:Enel_RJ:86319062",
+     "BDGD:Enel_RJ:86679582",
+     "BDGD:Enel_RJ:94000757",
+     "BDGD:Enel_RJ:94000754",
+     "BDGD:Enel_SP:RAEPRE2",
+     "BDGD:Enel_SP:RAEPRE1",
+     "BDGD:Enel_SP:RAEITP2",
+     "BDGD:Enel_SP:RAEITP1",
+     "BDGD:Enel_SP:RAEREG2",
+     "BDGD:Enel_SP:RAEREG1",
+     "BDGD:Enel_SP:RAEMAZ1",
+     "BDGD:Enel_SP:RAEMAZ2",
+     "BDGD:Enel_SP:RAEBAV2",
+     "BDGD:Enel_SP:RAEBAV1",
+     "BDGD:Energisa_MS:649069",
+     "BDGD:Energisa_MS:231962235",
+     "BDGD:Energisa_MS:231962226",
+     "BDGD:Energisa_MS:232134910"
+    ]
+   }
+  }
+ },
+ "tensoes_incomuns": {
+  "linhas": {
+   "132": 1
+  }
+ },
+ "histograma_fusao_km": {
+  "0-0.1": 180,
+  "0.1-0.25": 45,
+  "0.25-0.5": 12,
+  "0.5-0.75": 7,
+  "0.75-1": 0
+ },
+ "fundidas_por_palavras": [
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7415",
+   "id_bdgd": "BDGD:Amazonas_Energia:1019565430",
+   "nome_epe": "SE Presidente Figueiredo",
+   "nome_bdgd": "SE PRESIDENTE FIGUEIREDO DOIS (69/13,8kV)",
+   "distancia_km": 0.195
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6855",
+   "id_bdgd": "BDGD:CPFL_Paulista:KGE",
+   "nome_epe": "SE Getulina",
+   "nome_bdgd": "GETULINA CTEEP",
+   "distancia_km": 0.037
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6740",
+   "id_bdgd": "BDGD:CPFL_Paulista:KBA",
+   "nome_epe": "SE Bauru",
+   "nome_bdgd": "BAURU CTEEP",
+   "distancia_km": 0.023
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6752",
+   "id_bdgd": "BDGD:CPFL_Paulista:KBO",
+   "nome_epe": "SE Botucatu",
+   "nome_bdgd": "BOTUCATU CTEEP",
+   "distancia_km": 0.03
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7067",
+   "id_bdgd": "BDGD:CPFL_Paulista:KRP",
+   "nome_epe": "SE Ribeirão Preto",
+   "nome_bdgd": "RIBEIRAO PRETO CTEEP",
+   "distancia_km": 0.448
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7123",
+   "id_bdgd": "BDGD:CPFL_Paulista:KSU",
+   "nome_epe": "SE Sumaré",
+   "nome_bdgd": "SUMARE CTEEP",
+   "distancia_km": 0.026
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7358",
+   "id_bdgd": "BDGD:CPFL_Paulista:KPT",
+   "nome_epe": "SE Piracicaba",
+   "nome_bdgd": "PIRACICABA 440/138 KV CPFL TRANSMISSAO",
+   "distancia_km": 0.059
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6976",
+   "id_bdgd": "BDGD:CPFL_Paulista:KMA",
+   "nome_epe": "SE Morro Agudo",
+   "nome_bdgd": "MORRO AGUDO 500/138 KV CPFL TRANSMISSAO",
+   "distancia_km": 0.021
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6996",
+   "id_bdgd": "BDGD:CPFL_Piratininga:KOE",
+   "nome_epe": "SE Oeste",
+   "nome_bdgd": "OESTE CTEEP",
+   "distancia_km": 0.049
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6747",
+   "id_bdgd": "BDGD:CPFL_Piratininga:KBJ",
+   "nome_epe": "SE Bom Jardim",
+   "nome_bdgd": "BOM JARDIM CTEEP",
+   "distancia_km": 0.044
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6725",
+   "id_bdgd": "BDGD:CPFL_Piratininga:KBX",
+   "nome_epe": "SE Baixada Santista",
+   "nome_bdgd": "BAIXADA SANTISTA CTEEP",
+   "distancia_km": 0.117
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7077",
+   "id_bdgd": "BDGD:CPFL_Piratininga:KSL",
+   "nome_epe": "SE Salto",
+   "nome_bdgd": "SE SALTO (CTEEP)",
+   "distancia_km": 0.067
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6830",
+   "id_bdgd": "BDGD:CPFL_Piratininga:KEG",
+   "nome_epe": "SE Embu-Guaçu",
+   "nome_bdgd": "EMBU GUACU CTEEP",
+   "distancia_km": 0.212
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6949",
+   "id_bdgd": "BDGD:CPFL_Piratininga:KMN",
+   "nome_epe": "SE Manoel da Nóbrega",
+   "nome_bdgd": "MANOEL DA NOBREGA ELTE",
+   "distancia_km": 0.005
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7310",
+   "id_bdgd": "BDGD:Celesc-Dis:GAS",
+   "nome_epe": "SE Gaspar 2",
+   "nome_bdgd": "GASPAR 2-GAS2",
+   "distancia_km": 0.059
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6742",
+   "id_bdgd": "BDGD:Celesc-Dis:BIG",
+   "nome_epe": "SE Biguaçu",
+   "nome_bdgd": "BIGUAÇU ESUL-BIG",
+   "distancia_km": 0.13
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6890",
+   "id_bdgd": "BDGD:Celesc-Dis:ITJ",
+   "nome_epe": "SE Itajaí",
+   "nome_bdgd": "ITAJAÍ ESUL-ITJ",
+   "distancia_km": 0.011
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6843",
+   "id_bdgd": "BDGD:Celesc-Dis:FHA",
+   "nome_epe": "SE Forquilhinha",
+   "nome_bdgd": "FORQUILHINHA IESUL-FHA",
+   "distancia_km": 0.029
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6743",
+   "id_bdgd": "BDGD:Celesc-Dis:BLU",
+   "nome_epe": "SE Blumenau",
+   "nome_bdgd": "BLUMENAU ESUL-BLU",
+   "distancia_km": 0.019
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7027",
+   "id_bdgd": "BDGD:Celesc-Dis:PIN",
+   "nome_epe": "SE Pinhalzinho 2",
+   "nome_bdgd": "PINHALZINHO 2-PIN2",
+   "distancia_km": 0.056
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7211",
+   "id_bdgd": "BDGD:Celesc-Dis:RSU",
+   "nome_epe": "SE Rio do Sul",
+   "nome_bdgd": "RIO DO SUL STC-RSU",
+   "distancia_km": 0.006
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6776",
+   "id_bdgd": "BDGD:Celesc-Dis:CNO",
+   "nome_epe": "SE Campos Novos",
+   "nome_bdgd": "CAMPOS NOVOS ESUL-CNO",
+   "distancia_km": 0.096
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7113",
+   "id_bdgd": "BDGD:Celesc-Dis:SID",
+   "nome_epe": "SE Siderópolis",
+   "nome_bdgd": "SIDERÓPOLIS ESUL-SID",
+   "distancia_km": 0.014
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6920",
+   "id_bdgd": "BDGD:Celesc-Dis:JLA",
+   "nome_epe": "SE Jorge Lacerda A",
+   "nome_bdgd": "JORGE LACERDA A-JLA",
+   "distancia_km": 0.015
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7136",
+   "id_bdgd": "BDGD:Cemig-D:1726863",
+   "nome_epe": "SE Timóteo 1",
+   "nome_bdgd": "TIMOTEO",
+   "distancia_km": 0.04
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6811",
+   "id_bdgd": "BDGD:Cemig-D:1726544",
+   "nome_epe": "SE Conselheiro Lafaiete",
+   "nome_bdgd": "CONSELHEIRO LAFAIETE 1",
+   "distancia_km": 0.073
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6829",
+   "id_bdgd": "BDGD:Cemig-D:1726694",
+   "nome_epe": "SE Emborcação",
+   "nome_bdgd": "SE USINA EMBORCACAO",
+   "distancia_km": 0.039
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7153",
+   "id_bdgd": "BDGD:Cemig-D:1726782",
+   "nome_epe": "SE Várzea da Palma 1",
+   "nome_bdgd": "VARZEA PALMA",
+   "distancia_km": 0.152
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6849",
+   "id_bdgd": "BDGD:Cemig-D:3040154",
+   "nome_epe": "SE Poços de Caldas",
+   "nome_bdgd": "POCOS DE CALDAS 1",
+   "distancia_km": 0.397
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6905",
+   "id_bdgd": "BDGD:Cemig-D:1726699",
+   "nome_epe": "SE Jaguara",
+   "nome_bdgd": "USINA HIDROELETRICA DE JAGUARA",
+   "distancia_km": 0.676
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7144",
+   "id_bdgd": "BDGD:Cemig-D:1726772",
+   "nome_epe": "SE Três Marias",
+   "nome_bdgd": "USINA TRES MARIAS",
+   "distancia_km": 0.094
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7011",
+   "id_bdgd": "BDGD:Copel-Dis:71200",
+   "nome_epe": "SE Parigot Souza",
+   "nome_bdgd": "GOVERNADOR PARIGOT DE SOUZA",
+   "distancia_km": 0.057
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7063",
+   "id_bdgd": "BDGD:Copel-Dis:72850",
+   "nome_epe": "SE Realeza Sul",
+   "nome_bdgd": "REALEZA",
+   "distancia_km": 0.136
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7445",
+   "id_bdgd": "BDGD:Copel-Dis:72800",
+   "nome_epe": "SE Medianeira Norte",
+   "nome_bdgd": "MEDIANEIRA",
+   "distancia_km": 0.191
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6822",
+   "id_bdgd": "BDGD:Copel-Dis:71180",
+   "nome_epe": "SE Distrito Industrial de São José dos Pinhais",
+   "nome_bdgd": "DISTRITO INDUSTRIAL SAO JOSE DOS PINHAIS",
+   "distancia_km": 0.075
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7331",
+   "id_bdgd": "BDGD:EDP_ES:ETT-LIF",
+   "nome_epe": "SE Linhares",
+   "nome_bdgd": "LINHARES - FURNAS",
+   "distancia_km": 0.044
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6958",
+   "id_bdgd": "BDGD:EDP_ES:ETU-MAS",
+   "nome_epe": "SE Mascarenhas",
+   "nome_bdgd": "USINA MASCARENHAS",
+   "distancia_km": 0.055
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7072",
+   "id_bdgd": "BDGD:EDP_ES:ETT-RNS",
+   "nome_epe": "SE Rio Novo do Sul",
+   "nome_bdgd": "RIO NOVO DO SUL - ETC ALUPAR",
+   "distancia_km": 0.044
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7333",
+   "id_bdgd": "BDGD:EDP_ES:ETT-JN2",
+   "nome_epe": "SE João Neiva 2",
+   "nome_bdgd": "JOAO NEIVA 2 ISA CTEEP ITAUNAS",
+   "distancia_km": 0.025
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7159",
+   "id_bdgd": "BDGD:EDP_ES:ETT-VIF",
+   "nome_epe": "SE Viana",
+   "nome_bdgd": "VIANA - FURNAS",
+   "distancia_km": 0.076
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7076",
+   "id_bdgd": "BDGD:Enel_CE:RSU",
+   "nome_epe": "SE Russas II",
+   "nome_bdgd": "RUSSAS",
+   "distancia_km": 0.176
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6706",
+   "id_bdgd": "BDGD:Enel_SP:TANH",
+   "nome_epe": "SE Anhanguera",
+   "nome_bdgd": "ETT ANHANGUERA",
+   "distancia_km": 0.046
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6729",
+   "id_bdgd": "BDGD:Enel_SP:TBAN",
+   "nome_epe": "SE Bandeirantes",
+   "nome_bdgd": "ETT BANDEIRANTES",
+   "distancia_km": 0.219
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6826",
+   "id_bdgd": "BDGD:Enel_SP:TESO",
+   "nome_epe": "SE Edgard de Souza",
+   "nome_bdgd": "ETT EDGARD DE SOUZA",
+   "distancia_km": 0.04
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6908",
+   "id_bdgd": "BDGD:Enel_SP:TJAD",
+   "nome_epe": "SE Jandira",
+   "nome_bdgd": "ETT JANDIRA",
+   "distancia_km": 0.03
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7134",
+   "id_bdgd": "BDGD:Enel_SP:TLES",
+   "nome_epe": "SE Leste",
+   "nome_bdgd": "ETT LESTE",
+   "distancia_km": 0.055
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6965",
+   "id_bdgd": "BDGD:Enel_SP:TMFO",
+   "nome_epe": "SE Milton Fornasaro",
+   "nome_bdgd": "ETT MILTON FORNASARO",
+   "distancia_km": 0.013
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6963",
+   "id_bdgd": "BDGD:Enel_SP:TMRE",
+   "nome_epe": "SE Miguel Reale",
+   "nome_bdgd": "ETT MIGUEL REALE",
+   "distancia_km": 0.035
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7122",
+   "id_bdgd": "BDGD:Enel_SP:TSUL",
+   "nome_epe": "SE Sul",
+   "nome_bdgd": "ETT SUL",
+   "distancia_km": 0.016
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7069",
+   "id_bdgd": "BDGD:Energisa_AC:6878988",
+   "nome_epe": "SE Rio Branco I",
+   "nome_bdgd": "SE RIO BRANCO",
+   "distancia_km": 0.034
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7074",
+   "id_bdgd": "BDGD:Energisa_MT:167",
+   "nome_epe": "SE Rondonópolis",
+   "nome_bdgd": "SE RONDONOPOLIS I CIDADE 138 KV",
+   "distancia_km": 0.153
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7196",
+   "id_bdgd": "BDGD:Energisa_MT:210",
+   "nome_epe": "SE Brasnorte",
+   "nome_bdgd": "SE BRASNORTE RB 230KV",
+   "distancia_km": 0.072
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7237",
+   "id_bdgd": "BDGD:Energisa_MT:211",
+   "nome_epe": "SE Juba",
+   "nome_bdgd": "SE JUBA RB 138KV",
+   "distancia_km": 0.04
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6986",
+   "id_bdgd": "BDGD:Energisa_MT:224",
+   "nome_epe": "SE Nobres",
+   "nome_bdgd": "SE NOBRES RB 230KV",
+   "distancia_km": 0.057
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7119",
+   "id_bdgd": "BDGD:Energisa_MT:62",
+   "nome_epe": "SE Sorriso",
+   "nome_bdgd": "SE SORRISO RURAL 69 KV",
+   "distancia_km": 0.178
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7228",
+   "id_bdgd": "BDGD:Energisa_MT:81",
+   "nome_epe": "SE UHE Manso",
+   "nome_bdgd": "SE MANSO 138 KV",
+   "distancia_km": 0.481
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6813",
+   "id_bdgd": "BDGD:Energisa_PB:12873444",
+   "nome_epe": "SE Coremas",
+   "nome_bdgd": "SE - COREMAS - CHESF",
+   "distancia_km": 0.023
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7026",
+   "id_bdgd": "BDGD:Energisa_RO:13088112",
+   "nome_epe": "SE Pimenta Bueno",
+   "nome_bdgd": "SE PIMENTA BUENO ELN",
+   "distancia_km": 0.011
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7164",
+   "id_bdgd": "BDGD:Energisa_RO:18967847",
+   "nome_epe": "SE Vilhena",
+   "nome_bdgd": "SE VILHENA ELN",
+   "distancia_km": 0.059
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6910",
+   "id_bdgd": "BDGD:Energisa_RO:46877754",
+   "nome_epe": "SE Jaru",
+   "nome_bdgd": "SE JARU ELN",
+   "distancia_km": 0.034
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7054",
+   "id_bdgd": "BDGD:Energisa_RO:19340176",
+   "nome_epe": "SE Porto Velho",
+   "nome_bdgd": "SE PORTO VELHO ELN",
+   "distancia_km": 0.081
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6718",
+   "id_bdgd": "BDGD:Energisa_RO:19456114",
+   "nome_epe": "SE Ariquemes",
+   "nome_bdgd": "SE ARIQUEMES ELN",
+   "distancia_km": 0.064
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7006",
+   "id_bdgd": "BDGD:Energisa_Sul-Sudeste:105",
+   "nome_epe": "SE Paraguaçu Paulista 2",
+   "nome_bdgd": "SE PARAGUACU PAULISTA",
+   "distancia_km": 0.603
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7003",
+   "id_bdgd": "BDGD:Energisa_TO:610231",
+   "nome_epe": "SE Palmas",
+   "nome_bdgd": "SE PALMAS I",
+   "distancia_km": 0.016
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6868",
+   "id_bdgd": "BDGD:Energisa_TO:35163645",
+   "nome_epe": "SE Gurupi",
+   "nome_bdgd": "SE GURUPI REDE BASICA",
+   "distancia_km": 0.459
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6966",
+   "id_bdgd": "BDGD:Energisa_TO:11",
+   "nome_epe": "SE Miracema",
+   "nome_bdgd": "SE MIRACEMA ELN",
+   "distancia_km": 0.066
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7071",
+   "id_bdgd": "BDGD:Equatorial_AL:RLU",
+   "nome_epe": "SE Rio Largo II",
+   "nome_bdgd": "RIO LARGO",
+   "distancia_km": 0.133
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7021",
+   "id_bdgd": "BDGD:Equatorial_AL:PEN",
+   "nome_epe": "SE Penedo",
+   "nome_bdgd": "SEC PENEDO",
+   "distancia_km": 0.047
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7210",
+   "id_bdgd": "BDGD:Equatorial_GO:5003351",
+   "nome_epe": "SE Rio Verde",
+   "nome_bdgd": "RIO VERDE - FURNAS - FICTICIA",
+   "distancia_km": 0.041
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6985",
+   "id_bdgd": "BDGD:Equatorial_GO:5003044",
+   "nome_epe": "SE Niquelândia",
+   "nome_bdgd": "NIQUELANDIA SUBTRANSMISSAO",
+   "distancia_km": 0.099
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7576",
+   "id_bdgd": "BDGD:Equatorial_GO:5003366",
+   "nome_epe": "SE Serra da Mesa",
+   "nome_bdgd": "SERRA DA MESA - FICTICIA",
+   "distancia_km": 0.508
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6892",
+   "id_bdgd": "BDGD:Equatorial_GO:5000941",
+   "nome_epe": "SE Itapaci",
+   "nome_bdgd": "ITAPACI TRANSMISSAO",
+   "distancia_km": 0.078
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7004",
+   "id_bdgd": "BDGD:Equatorial_GO:5001349",
+   "nome_epe": "SE Palmeiras",
+   "nome_bdgd": "PALMEIRAS T",
+   "distancia_km": 0.072
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6786",
+   "id_bdgd": "BDGD:Equatorial_GO:5002144",
+   "nome_epe": "SE Carajás (GO)",
+   "nome_bdgd": "CARAJAS",
+   "distancia_km": 0.061
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7259",
+   "id_bdgd": "BDGD:Equatorial_GO:5003331",
+   "nome_epe": "SE Edéia",
+   "nome_bdgd": "COLETORA EDEIA",
+   "distancia_km": 0.002
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7451",
+   "id_bdgd": "BDGD:Equatorial_GO:5000957",
+   "nome_epe": "SE Rio Claro 2",
+   "nome_bdgd": "RIO CLARO",
+   "distancia_km": 0.27
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6814",
+   "id_bdgd": "BDGD:Equatorial_GO:5001177",
+   "nome_epe": "SE Corumbá",
+   "nome_bdgd": "VILA CORUMBA",
+   "distancia_km": 0.293
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7219",
+   "id_bdgd": "BDGD:Equatorial_MA:BES",
+   "nome_epe": "SE UHE Boa Esperança",
+   "nome_bdgd": "BOA ESPERANCA",
+   "distancia_km": 0.038
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6967",
+   "id_bdgd": "BDGD:Equatorial_MA:MRA",
+   "nome_epe": "SE Miranda II",
+   "nome_bdgd": "MIRANDA",
+   "distancia_km": 0.083
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7250",
+   "id_bdgd": "BDGD:Equatorial_PA:MAB",
+   "nome_epe": "SE Marabá (Celpa)",
+   "nome_bdgd": "MARABÁ",
+   "distancia_km": 0.027
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7075",
+   "id_bdgd": "BDGD:Equatorial_PA:RUR",
+   "nome_epe": "SE Rurópolis",
+   "nome_bdgd": "RURÓPOLIS ELETRONORTE",
+   "distancia_km": 0.06
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6701",
+   "id_bdgd": "BDGD:Equatorial_PA:EL1",
+   "nome_epe": "SE Altamira",
+   "nome_bdgd": "ELN - ALTAMIRA",
+   "distancia_km": 0.054
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6950",
+   "id_bdgd": "BDGD:Equatorial_PA:MEN",
+   "nome_epe": "SE Marabá",
+   "nome_bdgd": "MARABA ELETRONORTE",
+   "distancia_km": 0.294
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7085",
+   "id_bdgd": "BDGD:Equatorial_PA:SMP",
+   "nome_epe": "SE Santa Maria",
+   "nome_bdgd": "SANTA MARIA DO PARÁ",
+   "distancia_km": 0.003
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7146",
+   "id_bdgd": "BDGD:Equatorial_PA:TRL",
+   "nome_epe": "SE Tucuruí",
+   "nome_bdgd": "TUCURUI ELETRONORTE",
+   "distancia_km": 0.051
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6785",
+   "id_bdgd": "BDGD:Equatorial_PA:CAJ",
+   "nome_epe": "SE Carajás (PA)",
+   "nome_bdgd": "CARAJAS",
+   "distancia_km": 0.146
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7068",
+   "id_bdgd": "BDGD:Equatorial_PI:RGV",
+   "nome_epe": "SE Ribeiro Gonçalves",
+   "nome_bdgd": "RIBEIRO GONÇALVES(ELETRONORTE)",
+   "distancia_km": 0.076
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6859",
+   "id_bdgd": "BDGD:Light:283540595",
+   "nome_epe": "SE Grajaú",
+   "nome_bdgd": "SETD GRAJAU",
+   "distancia_km": 0.032
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6990",
+   "id_bdgd": "BDGD:Light:488045000",
+   "nome_epe": "SE Nova Iguaçu",
+   "nome_bdgd": "SEMT NOVA IGUACU",
+   "distancia_km": 0.117
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7100",
+   "id_bdgd": "BDGD:Light:284904325",
+   "nome_epe": "SE São José",
+   "nome_bdgd": "SETD SAO JOSE",
+   "distancia_km": 0.076
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6984",
+   "id_bdgd": "BDGD:Light:277466383",
+   "nome_epe": "SE Nilo Peçanha",
+   "nome_bdgd": "SETD NILO PECANHA",
+   "distancia_km": 0.055
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6904",
+   "id_bdgd": "BDGD:Light:574520576",
+   "nome_epe": "SE Jacarepaguá",
+   "nome_bdgd": "SETD JACAREPAGUA",
+   "distancia_km": 0.019
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7209",
+   "id_bdgd": "BDGD:Light:612564864",
+   "nome_epe": "SE Zona Oeste",
+   "nome_bdgd": "SETD ZONA OESTE",
+   "distancia_km": 0.056
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6789",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:CTU",
+   "nome_epe": "SE Catu",
+   "nome_bdgd": "CATU - CHESF",
+   "distancia_km": 0.006
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6960",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:MTT",
+   "nome_epe": "SE Matatu",
+   "nome_bdgd": "MATATU - CHESF",
+   "distancia_km": 0.016
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6977",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:MDP",
+   "nome_epe": "SE Morro do Chapéu II",
+   "nome_bdgd": "MORRO DO CHAPEU II - CHESF",
+   "distancia_km": 0.003
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6981",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:NBA",
+   "nome_epe": "SE Narandiba",
+   "nome_bdgd": "NARANDIBA - AFLUENTE",
+   "distancia_km": 0.037
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6848",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:FNL",
+   "nome_epe": "SE Funil",
+   "nome_bdgd": "FUNIL - CHESF",
+   "distancia_km": 0.079
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7039",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:POC",
+   "nome_epe": "SE Poções II",
+   "nome_bdgd": "POCOES",
+   "distancia_km": 0.46
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7110",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:SBF",
+   "nome_epe": "SE Senhor do Bonfim II",
+   "nome_bdgd": "SENHOR DO BONFIM",
+   "distancia_km": 0.141
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7490",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:PRJ",
+   "nome_epe": "SE Pirajá",
+   "nome_bdgd": "PIRAJA MEZ",
+   "distancia_km": 0.026
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6802",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:CDT",
+   "nome_epe": "SE Cícero Dantas",
+   "nome_bdgd": "CICERO DANTAS III",
+   "distancia_km": 0.2
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6982",
+   "id_bdgd": "BDGD:Neoenergia_Cosern:NTU",
+   "nome_epe": "SE Natal II",
+   "nome_bdgd": "NATAL",
+   "distancia_km": 0.199
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6694",
+   "id_bdgd": "BDGD:Neoenergia_Cosern:ACU",
+   "nome_epe": "SE Açu II",
+   "nome_bdgd": "ACU",
+   "distancia_km": 0.23
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7090",
+   "id_bdgd": "BDGD:RGE:KSR",
+   "nome_epe": "SE Santa Rosa 1",
+   "nome_bdgd": "SE SANTA ROSA",
+   "distancia_km": 0.014
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6845",
+   "id_bdgd": "BDGD:RGE:KFZ",
+   "nome_epe": "SE Foz do Chapecó",
+   "nome_bdgd": "FOZ CHAPECO",
+   "distancia_km": 0.069
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7298",
+   "id_bdgd": "BDGD:RGE:KCF",
+   "nome_epe": "SE Caxias 6",
+   "nome_bdgd": "CAXIAS DO SUL 6",
+   "distancia_km": 0.011
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6934",
+   "id_bdgd": "BDGD:RGE:KLA",
+   "nome_epe": "SE Lajeado 2",
+   "nome_bdgd": "SE LAJEADO 2 - CEEE",
+   "distancia_km": 0.024
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7096",
+   "id_bdgd": "BDGD:RGE:KSZ",
+   "nome_epe": "SE São Borja 2",
+   "nome_bdgd": "SE SÃO BORJA 2 - CEEE",
+   "distancia_km": 0.003
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6700",
+   "id_bdgd": "BDGD:RGE:KAL",
+   "nome_epe": "SE Alegrete 2",
+   "nome_bdgd": "SE ALEGRETE 2 - CEEE",
+   "distancia_km": 0.031
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6803",
+   "id_bdgd": "BDGD:RGE:KCD",
+   "nome_epe": "SE Cidade Industrial",
+   "nome_bdgd": "SE CANOAS 2 - CIDADE INDUSTRIAL CEEE",
+   "distancia_km": 0.042
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6945",
+   "id_bdgd": "BDGD:RGE:KMB",
+   "nome_epe": "SE Maçambará",
+   "nome_bdgd": "SE MACAMBARA - CEEE",
+   "distancia_km": 0.051
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7188",
+   "id_bdgd": "BDGD:RGE:KUR",
+   "nome_epe": "SE Uruguaiana 5",
+   "nome_bdgd": "SE URUGUAIANA 5 - CEEE",
+   "distancia_km": 0.107
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6771",
+   "id_bdgd": "BDGD:RGE:KCM",
+   "nome_epe": "SE Campo Bom",
+   "nome_bdgd": "SE CAMPO BOM 1 - CEEE",
+   "distancia_km": 0.1
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7109",
+   "id_bdgd": "BDGD:RGE:KSH",
+   "nome_epe": "SE Scharlau",
+   "nome_bdgd": "SE NOVO HAMBURGO - SCHARLAU CEEE",
+   "distancia_km": 0.082
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7084",
+   "id_bdgd": "BDGD:RGE:KST",
+   "nome_epe": "SE Santa Cruz 1",
+   "nome_bdgd": "SE SANTA CRUZ 1 - CEEE",
+   "distancia_km": 0.013
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7086",
+   "id_bdgd": "BDGD:RGE:KMR",
+   "nome_epe": "SE Santa Maria 3",
+   "nome_bdgd": "SE SANTA MARIA 3 - CEEE",
+   "distancia_km": 0.026
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:6937",
+   "id_bdgd": "BDGD:RGE:KLI",
+   "nome_epe": "SE Livramento 2",
+   "nome_bdgd": "SE LIVRAMENTO 2 - CEEE",
+   "distancia_km": 0.014
+  },
+  {
+   "motivo": "fundida_por_palavras",
+   "id_epe": "EPE:7047",
+   "id_bdgd": "BDGD:RGE:KPO",
+   "nome_epe": "SE Porto Alegre 9",
+   "nome_bdgd": "SE PORTO ALEGRE 9 - CEEE",
+   "distancia_km": 0.042
+  }
+ ],
+ "possiveis_duplicatas": [
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7241",
+   "id_bdgd": "BDGD:Amazonas_Energia:5003159",
+   "nome_epe": "SE Mauá III",
+   "nome_bdgd": "SE MAUA GERACAO (69/13,8kV)",
+   "distancia_km": 0.321
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7241",
+   "id_bdgd": "BDGD:Amazonas_Energia:5003484",
+   "nome_epe": "SE Mauá III",
+   "nome_bdgd": "SE MAUA TRES (138/69kV)",
+   "distancia_km": 0.078
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7415",
+   "id_bdgd": "BDGD:Amazonas_Energia:1019565386",
+   "nome_epe": "SE Presidente Figueiredo",
+   "nome_bdgd": "ENERGISA PRESIDENTE FIGUEREIDO (69 KV)",
+   "distancia_km": 0.004
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7044",
+   "id_bdgd": "BDGD:CEEE_Equatorial:ZAF",
+   "nome_epe": "SE Porto Alegre 1",
+   "nome_bdgd": "RS-PA-SE-ZAF01",
+   "distancia_km": 0.976
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7044",
+   "id_bdgd": "BDGD:CEEE_Equatorial:P01",
+   "nome_epe": "SE Porto Alegre 1",
+   "nome_bdgd": "RS-PA-SE-PAL01",
+   "distancia_km": 0.016
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7050",
+   "id_bdgd": "BDGD:CEEE_Equatorial:P12",
+   "nome_epe": "SE Jardim Botânico",
+   "nome_bdgd": "RS-PA-SE-PAL12",
+   "distancia_km": 0.041
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6957",
+   "id_bdgd": "BDGD:CEEE_Equatorial:MML",
+   "nome_epe": "SE Marmeleiro 2",
+   "nome_bdgd": "RS-PL-SE-MML01",
+   "distancia_km": 0.87
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7045",
+   "id_bdgd": "BDGD:CEEE_Equatorial:GK1",
+   "nome_epe": "SE Porto Alegre 8",
+   "nome_bdgd": "RS-OU-SE-GKN01",
+   "distancia_km": 0.512
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7492",
+   "id_bdgd": "BDGD:CEEE_Equatorial:CHA",
+   "nome_epe": "SE Charqueadas 3",
+   "nome_bdgd": "RS-PA-SE-CHA02",
+   "distancia_km": 0.997
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7045",
+   "id_bdgd": "BDGD:CEEE_Equatorial:P08",
+   "nome_epe": "SE Porto Alegre 8",
+   "nome_bdgd": "RS-PA-SE-PAL08",
+   "distancia_km": 0.007
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7150",
+   "id_bdgd": "BDGD:CEEE_Equatorial:GCH",
+   "nome_epe": "SE Charqueadas",
+   "nome_bdgd": "RS-OU-SE-GCH01",
+   "distancia_km": 0.712
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7047",
+   "id_bdgd": "BDGD:CEEE_Equatorial:AGM",
+   "nome_epe": "SE Porto Alegre 9",
+   "nome_bdgd": "RS-OU-SE-AGM01",
+   "distancia_km": 0.201
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7046",
+   "id_bdgd": "BDGD:CEEE_Equatorial:P04",
+   "nome_epe": "SE Porto Alegre 4",
+   "nome_bdgd": "RS-OU-SE-PAL04",
+   "distancia_km": 0.023
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7554",
+   "id_bdgd": "BDGD:CPFL_Paulista:YLW",
+   "nome_epe": "SE Bracell",
+   "nome_bdgd": "LWARCEL (P)",
+   "distancia_km": 0.849
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6712",
+   "id_bdgd": "BDGD:CPFL_Paulista:KAR",
+   "nome_epe": "SE Araraquara CTP",
+   "nome_bdgd": "ARARAQUARA CTEEP",
+   "distancia_km": 0.035
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7082",
+   "id_bdgd": "BDGD:CPFL_Paulista:KSB",
+   "nome_epe": "SE Santa Bárbara d´Oeste",
+   "nome_bdgd": "SANTA BARBARA DOESTE CTEEP",
+   "distancia_km": 0.105
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6959",
+   "id_bdgd": "BDGD:CPFL_Paulista:WMM",
+   "nome_epe": "SE Marechal Mascarenhas de Morais (Peixoto)",
+   "nome_bdgd": "UHE MASCARENHAS DE MORAES FCE",
+   "distancia_km": 0.018
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6968",
+   "id_bdgd": "BDGD:CPFL_Paulista:KMI",
+   "nome_epe": "SE Mirassol II",
+   "nome_bdgd": "MIRASSOL CTEEP",
+   "distancia_km": 0.05
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6996",
+   "id_bdgd": "BDGD:CPFL_Piratininga:REP",
+   "nome_epe": "SE Oeste",
+   "nome_bdgd": "SOROCABA 2 - REPRESA",
+   "distancia_km": 0.302
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7192",
+   "id_bdgd": "BDGD:CPFL_Piratininga:YUL",
+   "nome_epe": "SE Petrobras Cubatão",
+   "nome_bdgd": "YARA BRASIL FERTILIZANTES CUB-01 (P)",
+   "distancia_km": 0.943
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7386",
+   "id_bdgd": "BDGD:CPFL_Piratininga:YUL",
+   "nome_epe": "SE UTE Euzébio da Rocha",
+   "nome_bdgd": "YARA BRASIL FERTILIZANTES CUB-01 (P)",
+   "distancia_km": 0.864
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7192",
+   "id_bdgd": "BDGD:CPFL_Piratininga:YRF",
+   "nome_epe": "SE Petrobras Cubatão",
+   "nome_bdgd": "PETROBRAS REFINARIA (P)",
+   "distancia_km": 0.278
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7386",
+   "id_bdgd": "BDGD:CPFL_Piratininga:YRF",
+   "nome_epe": "SE UTE Euzébio da Rocha",
+   "nome_bdgd": "PETROBRAS REFINARIA (P)",
+   "distancia_km": 0.205
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6725",
+   "id_bdgd": "BDGD:CPFL_Piratininga:YUN",
+   "nome_epe": "SE Baixada Santista",
+   "nome_bdgd": "BRASKEM CUBATAO (P)",
+   "distancia_km": 0.433
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6725",
+   "id_bdgd": "BDGD:CPFL_Piratininga:YAG",
+   "nome_epe": "SE Baixada Santista",
+   "nome_bdgd": "MESSER GASES (P)",
+   "distancia_km": 0.807
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7191",
+   "id_bdgd": "BDGD:CPFL_Piratininga:YAG",
+   "nome_epe": "SE Carbocloro",
+   "nome_bdgd": "MESSER GASES (P)",
+   "distancia_km": 0.451
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7192",
+   "id_bdgd": "BDGD:CPFL_Piratininga:YQU",
+   "nome_epe": "SE Petrobras Cubatão",
+   "nome_bdgd": "PETROCOQUE CUBATAO (P)",
+   "distancia_km": 0.9
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7386",
+   "id_bdgd": "BDGD:CPFL_Piratininga:YQU",
+   "nome_epe": "SE UTE Euzébio da Rocha",
+   "nome_bdgd": "PETROCOQUE CUBATAO (P)",
+   "distancia_km": 0.977
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6854",
+   "id_bdgd": "BDGD:CPFL_Piratininga:ARG",
+   "nome_epe": "SE Gerdau SP",
+   "nome_bdgd": "ARACARIGUAMA 1",
+   "distancia_km": 0.799
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6869",
+   "id_bdgd": "BDGD:CPFL_Piratininga:YTZ",
+   "nome_epe": "SE Henry Borden",
+   "nome_bdgd": "TRANSPETRO (P)",
+   "distancia_km": 0.938
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6722",
+   "id_bdgd": "BDGD:CPFL_Santa_Cruz:AVN",
+   "nome_epe": "SE Avaré Nova",
+   "nome_bdgd": "AVARE 2",
+   "distancia_km": 0.019
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6921",
+   "id_bdgd": "BDGD:Celesc-Dis:JLA",
+   "nome_epe": "SE Jorge Lacerda B",
+   "nome_bdgd": "JORGE LACERDA A-JLA",
+   "distancia_km": 0.594
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7002",
+   "id_bdgd": "BDGD:Celesc-Dis:PAL",
+   "nome_epe": "SE Palhoça (ELETROSUL)",
+   "nome_bdgd": "PALHOÇA ESUL-PAL",
+   "distancia_km": 0.009
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6821",
+   "id_bdgd": "BDGD:Celesc-Dis:ISL",
+   "nome_epe": "SE Desterro",
+   "nome_bdgd": "ILHA SUL-ISL",
+   "distancia_km": 0.953
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7002",
+   "id_bdgd": "BDGD:Celesc-Dis:PCN",
+   "nome_epe": "SE Palhoça (ELETROSUL)",
+   "nome_bdgd": "PALHOÇA CAMINHO NOVO-PCN",
+   "distancia_km": 0.128
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7313",
+   "id_bdgd": "BDGD:Cemig-D:679130452",
+   "nome_epe": "SE UHE Itutinga",
+   "nome_bdgd": "ITUTINGA 345KV",
+   "distancia_km": 0.592
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7137",
+   "id_bdgd": "BDGD:Cemig-D:1726863",
+   "nome_epe": "SE Aperam",
+   "nome_bdgd": "TIMOTEO",
+   "distancia_km": 0.395
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7205",
+   "id_bdgd": "BDGD:Cemig-D:1726783",
+   "nome_epe": "SE Usiminas",
+   "nome_bdgd": "IPATINGA 2",
+   "distancia_km": 0.628
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7223",
+   "id_bdgd": "BDGD:Cemig-D:1726699",
+   "nome_epe": "SE UHE Jaguara",
+   "nome_bdgd": "USINA HIDROELETRICA DE JAGUARA",
+   "distancia_km": 0.035
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7288",
+   "id_bdgd": "BDGD:Ceriluz:CER03",
+   "nome_epe": "SE Ijuí 2",
+   "nome_bdgd": "SE CERILUZ 3 - 69kV",
+   "distancia_km": 0.478
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7288",
+   "id_bdgd": "BDGD:Ceriluz:IJU02",
+   "nome_epe": "SE Ijuí 2",
+   "nome_bdgd": "SE IJUI 2 ELETROSUL - 230KV",
+   "distancia_km": 0.017
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6843",
+   "id_bdgd": "BDGD:Cersul:SEISA",
+   "nome_epe": "SE Forquilhinha",
+   "nome_bdgd": "SUBESTAÇÃO ISA CTEEP",
+   "distancia_km": 0.032
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7040",
+   "id_bdgd": "BDGD:Certaja_Energia:PPE",
+   "nome_epe": "SE Pólo Petroquímico",
+   "nome_bdgd": "SUBESTAÇÃO 69 TRIUNFO",
+   "distancia_km": 0.124
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7090",
+   "id_bdgd": "BDGD:Cooperluz:14",
+   "nome_epe": "SE Santa Rosa 1",
+   "nome_bdgd": "MODULO 69 KV SE SRO 01 CEEEGT",
+   "distancia_km": 0.051
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6818",
+   "id_bdgd": "BDGD:Copel-Dis:71950",
+   "nome_epe": "SE Curitiba",
+   "nome_bdgd": "UMBARA",
+   "distancia_km": 0.229
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7245",
+   "id_bdgd": "BDGD:Copel-Dis:71450",
+   "nome_epe": "SE Foz do Iguaçu Norte",
+   "nome_bdgd": "FOZ DO IGUACU NORTEABENGOA",
+   "distancia_km": 0.024
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7380",
+   "id_bdgd": "BDGD:Copel-Dis:72856",
+   "nome_epe": "SE Cimentos Portland",
+   "nome_bdgd": "RIO BRANCO DO SUL",
+   "distancia_km": 0.706
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7450",
+   "id_bdgd": "BDGD:Copel-Dis:74200",
+   "nome_epe": "SE Curitiba Centro",
+   "nome_bdgd": "CAPANEMA",
+   "distancia_km": 0.015
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7013",
+   "id_bdgd": "BDGD:Creral:SE",
+   "nome_epe": "SE Passo Fundo",
+   "nome_bdgd": "ENTRE RIOS DO SUL",
+   "distancia_km": 0.684
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7288",
+   "id_bdgd": "BDGD:Demei:DEMEI",
+   "nome_epe": "SE Ijuí 2",
+   "nome_bdgd": "SE - DEMEI",
+   "distancia_km": 0.122
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6849",
+   "id_bdgd": "BDGD:Dmed:PC1",
+   "nome_epe": "SE Poços de Caldas",
+   "nome_bdgd": "SUBESTAÇÃO-PC1-(INT_138KV)",
+   "distancia_km": 0.365
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6849",
+   "id_bdgd": "BDGD:Dmed:PC11",
+   "nome_epe": "SE Poços de Caldas",
+   "nome_bdgd": "SUBESTAÇÃO-PC1-1-(INT_69KV)",
+   "distancia_km": 0.372
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7036",
+   "id_bdgd": "BDGD:EDP_ES:ECH-PIT",
+   "nome_epe": "SE Vitória",
+   "nome_bdgd": "PITANGA",
+   "distancia_km": 0.117
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6958",
+   "id_bdgd": "BDGD:EDP_ES:BGU",
+   "nome_epe": "SE Mascarenhas",
+   "nome_bdgd": "BAIXO GUANDU",
+   "distancia_km": 0.118
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7226",
+   "id_bdgd": "BDGD:EDP_ES:ETT-VIF",
+   "nome_epe": "SE UTE Viana",
+   "nome_bdgd": "VIANA - FURNAS",
+   "distancia_km": 0.967
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6988",
+   "id_bdgd": "BDGD:EDP_SP:VHE",
+   "nome_epe": "SE Norte",
+   "nome_bdgd": "VILA HERMINIA",
+   "distancia_km": 0.93
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6987",
+   "id_bdgd": "BDGD:EDP_SP:BON",
+   "nome_epe": "SE Nordeste",
+   "nome_bdgd": "BONSUCESSO",
+   "distancia_km": 0.289
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6893",
+   "id_bdgd": "BDGD:EDP_SP:ETT-MOG",
+   "nome_epe": "SE Itapeti",
+   "nome_bdgd": "MOGI",
+   "distancia_km": 0.562
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6988",
+   "id_bdgd": "BDGD:EDP_SP:ETR-VHE",
+   "nome_epe": "SE Norte",
+   "nome_bdgd": "VILA HERMINIA",
+   "distancia_km": 0.93
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6988",
+   "id_bdgd": "BDGD:EDP_SP:VGA",
+   "nome_epe": "SE Norte",
+   "nome_bdgd": "VILA GALVAO",
+   "distancia_km": 0.813
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6971",
+   "id_bdgd": "BDGD:EDP_SP:ETT-ITE",
+   "nome_epe": "SE Mogi",
+   "nome_bdgd": "ITAPETI",
+   "distancia_km": 0.546
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7220",
+   "id_bdgd": "BDGD:Enel_CE:ARS",
+   "nome_epe": "SE UTE Fortaleza",
+   "nome_bdgd": "AERIS",
+   "distancia_km": 0.489
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7220",
+   "id_bdgd": "BDGD:Enel_CE:CIP",
+   "nome_epe": "SE UTE Fortaleza",
+   "nome_bdgd": "COMPLEXO INDUSTRIAL PECEM",
+   "distancia_km": 0.792
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6820",
+   "id_bdgd": "BDGD:Enel_CE:DMC",
+   "nome_epe": "SE Delmiro Gouveia",
+   "nome_bdgd": "DIAS MACEDO",
+   "distancia_km": 0.928
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6844",
+   "id_bdgd": "BDGD:Enel_CE:MDM",
+   "nome_epe": "SE Fortaleza II",
+   "nome_bdgd": "MONDUBIM",
+   "distancia_km": 0.851
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7132",
+   "id_bdgd": "BDGD:Enel_CE:MDM",
+   "nome_epe": "SE Fortaleza",
+   "nome_bdgd": "MONDUBIM",
+   "distancia_km": 0.29
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7022",
+   "id_bdgd": "BDGD:Enel_CE:PCI",
+   "nome_epe": "SE Pici II",
+   "nome_bdgd": "PICI I",
+   "distancia_km": 0.129
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7022",
+   "id_bdgd": "BDGD:Enel_CE:UFC",
+   "nome_epe": "SE Pici II",
+   "nome_bdgd": "UNIVERSIDADE FEDERAL DO CEARA",
+   "distancia_km": 0.417
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6705",
+   "id_bdgd": "BDGD:Enel_RJ:ANG-FURNAS",
+   "nome_epe": "SE Angra dos Reis",
+   "nome_bdgd": "AngraFurnas",
+   "distancia_km": 0.264
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6965",
+   "id_bdgd": "BDGD:Enel_SP:BCON",
+   "nome_epe": "SE Milton Fornasaro",
+   "nome_bdgd": "EBC CONTINENTAL",
+   "distancia_km": 0.783
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:8001",
+   "id_bdgd": "BDGD:Enel_SP:BSCS",
+   "nome_epe": "SE São Caetano do Sul",
+   "nome_bdgd": "EBC SAO CAETANO",
+   "distancia_km": 0.124
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6729",
+   "id_bdgd": "BDGD:Enel_SP:CMOC",
+   "nome_epe": "SE Bandeirantes",
+   "nome_bdgd": "ECH Moncoes",
+   "distancia_km": 0.172
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6799",
+   "id_bdgd": "BDGD:Enel_SP:DANA",
+   "nome_epe": "SE Centro - CTT",
+   "nome_bdgd": "ETD ANASTACIO",
+   "distancia_km": 0.737
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6963",
+   "id_bdgd": "BDGD:Enel_SP:DCAM",
+   "nome_epe": "SE Miguel Reale",
+   "nome_bdgd": "ETD CAMBUCI",
+   "distancia_km": 0.752
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6965",
+   "id_bdgd": "BDGD:Enel_SP:DCON",
+   "nome_epe": "SE Milton Fornasaro",
+   "nome_bdgd": "ETD CONTINENTAL",
+   "distancia_km": 0.954
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7167",
+   "id_bdgd": "BDGD:Enel_SP:DLUB",
+   "nome_epe": "SE Xavantes",
+   "nome_bdgd": "ETD LUBECA",
+   "distancia_km": 0.703
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6729",
+   "id_bdgd": "BDGD:Enel_SP:DMOC",
+   "nome_epe": "SE Bandeirantes",
+   "nome_bdgd": "ETD MONCOES",
+   "distancia_km": 0.145
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6826",
+   "id_bdgd": "BDGD:Enel_SP:DPAR",
+   "nome_epe": "SE Edgard de Souza",
+   "nome_bdgd": "ETD PARNAIBA",
+   "distancia_km": 0.272
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7167",
+   "id_bdgd": "BDGD:Enel_SP:DSOC",
+   "nome_epe": "SE Xavantes",
+   "nome_bdgd": "ETD SOCORRO",
+   "distancia_km": 0.828
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7122",
+   "id_bdgd": "BDGD:Enel_SP:DVIT",
+   "nome_epe": "SE Sul",
+   "nome_bdgd": "ETD VITORIA",
+   "distancia_km": 0.191
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7134",
+   "id_bdgd": "BDGD:Enel_SP:MEIG",
+   "nome_epe": "SE Leste",
+   "nome_bdgd": "ETC Metro Iguatemi",
+   "distancia_km": 0.939
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6963",
+   "id_bdgd": "BDGD:Enel_SP:MET4",
+   "nome_epe": "SE Miguel Reale",
+   "nome_bdgd": "ETC METRO CAMBUCI",
+   "distancia_km": 0.739
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6963",
+   "id_bdgd": "BDGD:Enel_SP:MET6",
+   "nome_epe": "SE Miguel Reale",
+   "nome_bdgd": "ETC METRO PEDROII",
+   "distancia_km": 0.728
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:8001",
+   "id_bdgd": "BDGD:Enel_SP:OSCS",
+   "nome_epe": "SE São Caetano do Sul",
+   "nome_bdgd": "EOC SAO CAETANO",
+   "distancia_km": 0.105
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7061",
+   "id_bdgd": "BDGD:Enel_SP:RGCA",
+   "nome_epe": "SE Ramom Reberte Filho",
+   "nome_bdgd": "ETR GOMES CARDIM",
+   "distancia_km": 0.3
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6965",
+   "id_bdgd": "BDGD:Enel_SP:RMFO",
+   "nome_epe": "SE Milton Fornasaro",
+   "nome_bdgd": "ETR MILTON FORNARARO",
+   "distancia_km": 0.522
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6798",
+   "id_bdgd": "BDGD:Enel_SP:TCTR",
+   "nome_epe": "SE Centro - CTR",
+   "nome_bdgd": "ETT CENTRO",
+   "distancia_km": 0.008
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6830",
+   "id_bdgd": "BDGD:Enel_SP:TEMG",
+   "nome_epe": "SE Embu-Guaçu",
+   "nome_bdgd": "ETT EMBUGUACU",
+   "distancia_km": 0.038
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6987",
+   "id_bdgd": "BDGD:Enel_SP:TNOD",
+   "nome_epe": "SE Nordeste",
+   "nome_bdgd": "ETT NORDESTE",
+   "distancia_km": 0.078
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6988",
+   "id_bdgd": "BDGD:Enel_SP:TNOR",
+   "nome_epe": "SE Norte",
+   "nome_bdgd": "ETT NORTE",
+   "distancia_km": 0.006
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7032",
+   "id_bdgd": "BDGD:Enel_SP:TPIR",
+   "nome_epe": "SE Piratininga 2",
+   "nome_bdgd": "ETT PIRATININGA",
+   "distancia_km": 0.987
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7201",
+   "id_bdgd": "BDGD:Enel_SP:TPIR",
+   "nome_epe": "SE UTE Fernando Gasparian",
+   "nome_bdgd": "ETT PIRATININGA",
+   "distancia_km": 0.197
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7387",
+   "id_bdgd": "BDGD:Enel_SP:TPIR",
+   "nome_epe": "SE UTE Piratininga",
+   "nome_bdgd": "ETT PIRATININGA",
+   "distancia_km": 0.146
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6877",
+   "id_bdgd": "BDGD:Enel_SP:TPI2",
+   "nome_epe": "SE Interlagos",
+   "nome_bdgd": "ETT PIRATININGA II",
+   "distancia_km": 0.499
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7032",
+   "id_bdgd": "BDGD:Enel_SP:TPI2",
+   "nome_epe": "SE Piratininga 2",
+   "nome_bdgd": "ETT PIRATININGA II",
+   "distancia_km": 0.026
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7201",
+   "id_bdgd": "BDGD:Enel_SP:TPI2",
+   "nome_epe": "SE UTE Fernando Gasparian",
+   "nome_bdgd": "ETT PIRATININGA II",
+   "distancia_km": 0.838
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7387",
+   "id_bdgd": "BDGD:Enel_SP:TPI2",
+   "nome_epe": "SE UTE Piratininga",
+   "nome_bdgd": "ETT PIRATININGA II",
+   "distancia_km": 0.867
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7061",
+   "id_bdgd": "BDGD:Enel_SP:TRRF",
+   "nome_epe": "SE Ramom Reberte Filho",
+   "nome_bdgd": "ETT RAMON REBERTE FILHO",
+   "distancia_km": 0.03
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7031",
+   "id_bdgd": "BDGD:Enel_SP:UFGA",
+   "nome_epe": "SE Piratininga",
+   "nome_bdgd": "UTE Fernando Gasparian",
+   "distancia_km": 0.365
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7387",
+   "id_bdgd": "BDGD:Enel_SP:UFGA",
+   "nome_epe": "SE UTE Piratininga",
+   "nome_bdgd": "UTE Fernando Gasparian",
+   "distancia_km": 0.437
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6729",
+   "id_bdgd": "BDGD:Enel_SP:USPA",
+   "nome_epe": "SE Bandeirantes",
+   "nome_bdgd": "ETU SAO PAULO",
+   "distancia_km": 0.564
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7031",
+   "id_bdgd": "BDGD:Enel_SP:USPE",
+   "nome_epe": "SE Piratininga",
+   "nome_bdgd": "ETU PEDREIRA",
+   "distancia_km": 0.58
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7032",
+   "id_bdgd": "BDGD:Enel_SP:USPE",
+   "nome_epe": "SE Piratininga 2",
+   "nome_bdgd": "ETU PEDREIRA",
+   "distancia_km": 0.892
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7201",
+   "id_bdgd": "BDGD:Enel_SP:USPE",
+   "nome_epe": "SE UTE Fernando Gasparian",
+   "nome_bdgd": "ETU PEDREIRA",
+   "distancia_km": 0.611
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7387",
+   "id_bdgd": "BDGD:Enel_SP:USPE",
+   "nome_epe": "SE UTE Piratininga",
+   "nome_bdgd": "ETU PEDREIRA",
+   "distancia_km": 0.526
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6991",
+   "id_bdgd": "BDGD:Energisa_MT:5483913",
+   "nome_epe": "SE Nova Mutum",
+   "nome_bdgd": "SE CONEXAO RIO CLARO 138KV",
+   "distancia_km": 0.249
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6979",
+   "id_bdgd": "BDGD:Energisa_PB:12873415",
+   "nome_epe": "SE Mussuré II",
+   "nome_bdgd": "SE MUSSURE I",
+   "distancia_km": 0.185
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6691",
+   "id_bdgd": "BDGD:Energisa_RO:13165404",
+   "nome_epe": "SE Abunã",
+   "nome_bdgd": "SE ABUNA ELN",
+   "distancia_km": 0.125
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6711",
+   "id_bdgd": "BDGD:Equatorial_AL:ARD",
+   "nome_epe": "SE Arapiraca III",
+   "nome_bdgd": "ARAPIRACA II",
+   "distancia_km": 0.35
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7291",
+   "id_bdgd": "BDGD:Equatorial_AL:AGL",
+   "nome_epe": "SE Angelim II",
+   "nome_bdgd": "ANGELIM",
+   "distancia_km": 0.405
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7406",
+   "id_bdgd": "BDGD:Equatorial_AL:STN",
+   "nome_epe": "SE Santana II",
+   "nome_bdgd": "SANTANA 2",
+   "distancia_km": 0.045
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7296",
+   "id_bdgd": "BDGD:Equatorial_AL:TBM",
+   "nome_epe": "SE Maceió (Napoleão Moreira)",
+   "nome_bdgd": "TABULEIRO DO MARTINS",
+   "distancia_km": 0.292
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6730",
+   "id_bdgd": "BDGD:Equatorial_GO:5001464",
+   "nome_epe": "SE Bandeirantes",
+   "nome_bdgd": "ANHANGUERA",
+   "distancia_km": 0.344
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7190",
+   "id_bdgd": "BDGD:Equatorial_GO:9999999",
+   "nome_epe": "SE Goiânia Leste",
+   "nome_bdgd": "RESERVA TECNICA-MOVEL",
+   "distancia_km": 0.304
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7102",
+   "id_bdgd": "BDGD:Equatorial_MA:ABV",
+   "nome_epe": "SE São Luis II",
+   "nome_bdgd": "AMBEV",
+   "distancia_km": 0.891
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7199",
+   "id_bdgd": "BDGD:Equatorial_MA:PRD",
+   "nome_epe": "SE Peritoró",
+   "nome_bdgd": "PERITORO II",
+   "distancia_km": 0.173
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7186",
+   "id_bdgd": "BDGD:Equatorial_MA:VLP",
+   "nome_epe": "SE São Luís I",
+   "nome_bdgd": "VILA PALMEIRA",
+   "distancia_km": 0.985
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:8000",
+   "id_bdgd": "BDGD:Equatorial_PA:LT1",
+   "nome_epe": "SE UTE Novo Tempo Barcarena",
+   "nome_bdgd": "LT VIC CDP 1",
+   "distancia_km": 0.304
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7151",
+   "id_bdgd": "BDGD:Equatorial_PA:UTI",
+   "nome_epe": "SE Utinga",
+   "nome_bdgd": "UTINGA ELETRONORTE",
+   "distancia_km": 0.063
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6950",
+   "id_bdgd": "BDGD:Equatorial_PA:MON",
+   "nome_epe": "SE Marabá",
+   "nome_bdgd": "MORADA NOVA",
+   "distancia_km": 0.591
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6865",
+   "id_bdgd": "BDGD:Equatorial_PA:GUE",
+   "nome_epe": "SE Guamá",
+   "nome_bdgd": "GUAMA ELETRONORTE",
+   "distancia_km": 0.02
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7162",
+   "id_bdgd": "BDGD:Equatorial_PA:VDE",
+   "nome_epe": "SE Vila do Conde",
+   "nome_bdgd": "VILA DO CONDE ELETRONORTE",
+   "distancia_km": 0.017
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7248",
+   "id_bdgd": "BDGD:Equatorial_PA:ATL",
+   "nome_epe": "SE Xinguara II",
+   "nome_bdgd": "ATLANTICO",
+   "distancia_km": 0.071
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6856",
+   "id_bdgd": "BDGD:Equatorial_PI:GID",
+   "nome_epe": "SE Gilbués II",
+   "nome_bdgd": "GILBUÉS DOIS",
+   "distancia_km": 0.11
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7099",
+   "id_bdgd": "BDGD:Equatorial_PI:SJC",
+   "nome_epe": "SE São João do Piauí",
+   "nome_bdgd": "SÃO JOÃO (CHESF)",
+   "distancia_km": 0.062
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:8005",
+   "id_bdgd": "BDGD:Equatorial_PI:RGV",
+   "nome_epe": "SE UFV Panorama",
+   "nome_bdgd": "RIBEIRO GONÇALVES(ELETRONORTE)",
+   "distancia_km": 0.908
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7131",
+   "id_bdgd": "BDGD:Equatorial_PI:TSA",
+   "nome_epe": "SE Teresina",
+   "nome_bdgd": "CHESF",
+   "distancia_km": 0.017
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7133",
+   "id_bdgd": "BDGD:Equatorial_PI:TBC",
+   "nome_epe": "SE Teresina III",
+   "nome_bdgd": "TABOCA",
+   "distancia_km": 0.871
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7133",
+   "id_bdgd": "BDGD:Equatorial_PI:TST",
+   "nome_epe": "SE Teresina III",
+   "nome_bdgd": "TERESINA 3",
+   "distancia_km": 0.073
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6744",
+   "id_bdgd": "BDGD:Equatorial_PI:BEA",
+   "nome_epe": "SE Boa Esperança",
+   "nome_bdgd": "BEA ARTEON Z - 69 KV",
+   "distancia_km": 0.091
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6828",
+   "id_bdgd": "BDGD:Equatorial_PI:ELM",
+   "nome_epe": "SE Eliseu Martins",
+   "nome_bdgd": "ELIZEU MARTINS (CHESF)",
+   "distancia_km": 0.019
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6984",
+   "id_bdgd": "BDGD:Light:277466365",
+   "nome_epe": "SE Nilo Peçanha",
+   "nome_bdgd": "SETD FONTES NOVA",
+   "distancia_km": 0.154
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6859",
+   "id_bdgd": "BDGD:Light:275730622",
+   "nome_epe": "SE Grajaú",
+   "nome_bdgd": "SETR PAULA BRITO",
+   "distancia_km": 0.848
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7340",
+   "id_bdgd": "BDGD:Light:277466356",
+   "nome_epe": "SE Baixada Fluminense",
+   "nome_bdgd": "SETD ELETROBOLT",
+   "distancia_km": 0.215
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6848",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:DIP",
+   "nome_epe": "SE Funil",
+   "nome_bdgd": "DER. IPIAU",
+   "distancia_km": 0.169
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6903",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:CID",
+   "nome_epe": "SE Jacaracanga",
+   "nome_bdgd": "CIA II",
+   "distancia_km": 0.598
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6870",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:EIR",
+   "nome_epe": "SE Ibicoara",
+   "nome_bdgd": "ENT. IRAMAIA",
+   "distancia_km": 0.508
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7342",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:CTF",
+   "nome_epe": "SE Teixeira de Freitas II",
+   "nome_bdgd": "CENTRO INDUSTRIAL TEIXEIRA DE FREITAS",
+   "distancia_km": 0.752
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7303",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:DVF",
+   "nome_epe": "SE UTE Guarani",
+   "nome_bdgd": "DER. VALFILM",
+   "distancia_km": 0.818
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7039",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:EPO",
+   "nome_epe": "SE Poções II",
+   "nome_bdgd": "ENT. POCOES",
+   "distancia_km": 0.359
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6981",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:CAB",
+   "nome_epe": "SE Narandiba",
+   "nome_bdgd": "CENTRO ADMINISTRATIVO DA BAHIA",
+   "distancia_km": 0.35
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6978",
+   "id_bdgd": "BDGD:Neoenergia_Cosern:MSD",
+   "nome_epe": "SE Mossoró II",
+   "nome_bdgd": "MSD-CHESF",
+   "distancia_km": 0.033
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6694",
+   "id_bdgd": "BDGD:Neoenergia_Cosern:ACD",
+   "nome_epe": "SE Açu II",
+   "nome_bdgd": "ACD-CHESF",
+   "distancia_km": 0.017
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6836",
+   "id_bdgd": "BDGD:Neoenergia_Cosern:ETD",
+   "nome_epe": "SE Extremoz II",
+   "nome_bdgd": "EXTREMOZ DOIS-CHESF",
+   "distancia_km": 0.068
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6982",
+   "id_bdgd": "BDGD:Neoenergia_Cosern:NTD",
+   "nome_epe": "SE Natal II",
+   "nome_bdgd": "NTD-CHESF",
+   "distancia_km": 0.046
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7029",
+   "id_bdgd": "BDGD:Neoenergia_Pernambuco:PRU",
+   "nome_epe": "SE Pirapama II",
+   "nome_bdgd": "PIRAPAMA I",
+   "distancia_km": 0.272
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7029",
+   "id_bdgd": "BDGD:Neoenergia_Pernambuco:PEX",
+   "nome_epe": "SE Pirapama II",
+   "nome_bdgd": "PETROFLEX - LANXESS",
+   "distancia_km": 0.438
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7292",
+   "id_bdgd": "BDGD:Neoenergia_Pernambuco:PQS",
+   "nome_epe": "SE Suape III",
+   "nome_bdgd": "SE PETROQUIMICA SUAPE",
+   "distancia_km": 0.784
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6704",
+   "id_bdgd": "BDGD:Neoenergia_Pernambuco:SQA",
+   "nome_epe": "SE Angelim",
+   "nome_bdgd": "CHAVEAMENTO QUIPAPA",
+   "distancia_km": 0.546
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7291",
+   "id_bdgd": "BDGD:Neoenergia_Pernambuco:SQA",
+   "nome_epe": "SE Angelim II",
+   "nome_bdgd": "CHAVEAMENTO QUIPAPA",
+   "distancia_km": 0.839
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7294",
+   "id_bdgd": "BDGD:Neoenergia_Pernambuco:FPP",
+   "nome_epe": "SE UTE Suape II",
+   "nome_bdgd": "VALGROUP PE INDUSTRIA DE EMBALAGENS RIGIDAS L",
+   "distancia_km": 0.863
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7442",
+   "id_bdgd": "BDGD:Neoenergia_Pernambuco:GOD",
+   "nome_epe": "SE Mata Norte",
+   "nome_bdgd": "GOIANA II",
+   "distancia_km": 0.374
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7571",
+   "id_bdgd": "BDGD:Neoenergia_Pernambuco:GOD",
+   "nome_epe": "SE FIAT",
+   "nome_bdgd": "GOIANA II",
+   "distancia_km": 0.389
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7065",
+   "id_bdgd": "BDGD:Neoenergia_Pernambuco:JMA",
+   "nome_epe": "SE Ribeirão",
+   "nome_bdgd": "JOSE MARIANO",
+   "distancia_km": 0.409
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7294",
+   "id_bdgd": "BDGD:Neoenergia_Pernambuco:FPT",
+   "nome_epe": "SE UTE Suape II",
+   "nome_bdgd": "FROMPET",
+   "distancia_km": 0.908
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7204",
+   "id_bdgd": "BDGD:Neoenergia_Pernambuco:CDD",
+   "nome_epe": "SE Goianinha",
+   "nome_bdgd": "CONDADO",
+   "distancia_km": 0.181
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7120",
+   "id_bdgd": "BDGD:Neoenergia_Pernambuco:IPO",
+   "nome_epe": "SE Suape II",
+   "nome_bdgd": "IPOJUCA",
+   "distancia_km": 0.239
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7195",
+   "id_bdgd": "BDGD:Neoenergia_Pernambuco:VZA",
+   "nome_epe": "SE Joairam",
+   "nome_bdgd": "VARZEA",
+   "distancia_km": 0.648
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7029",
+   "id_bdgd": "BDGD:Neoenergia_Pernambuco:BMA",
+   "nome_epe": "SE Pirapama II",
+   "nome_bdgd": "BRAHMA AMBEV",
+   "distancia_km": 0.347
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7230",
+   "id_bdgd": "BDGD:RGE:KGB",
+   "nome_epe": "SE Gravataí",
+   "nome_bdgd": "SE GRAVATAÍ 2",
+   "distancia_km": 0.107
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6852",
+   "id_bdgd": "BDGD:RGE:GAB",
+   "nome_epe": "SE Garibaldi 1",
+   "nome_bdgd": "GARIBALDI 2",
+   "distancia_km": 0.12
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7013",
+   "id_bdgd": "BDGD:RGE:ERS",
+   "nome_epe": "SE Passo Fundo",
+   "nome_bdgd": "ENTRE RIOS DO SUL",
+   "distancia_km": 0.094
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6933",
+   "id_bdgd": "BDGD:RGE:SFE",
+   "nome_epe": "SE Lajeado Grande",
+   "nome_bdgd": "SÃO FRANCISCO DE PAULA 5",
+   "distancia_km": 0.235
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7087",
+   "id_bdgd": "BDGD:RGE:PFC",
+   "nome_epe": "SE Santa Marta",
+   "nome_bdgd": "PASSO FUNDO 3",
+   "distancia_km": 0.339
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7154",
+   "id_bdgd": "BDGD:RGE:KVE",
+   "nome_epe": "SE Venâncio Aires",
+   "nome_bdgd": "SE VENÂNCIO AIRES 1 - CEEE",
+   "distancia_km": 0.035
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7347",
+   "id_bdgd": "BDGD:RGE:KMB",
+   "nome_epe": "SE Maçambará 3",
+   "nome_bdgd": "SE MACAMBARA - CEEE",
+   "distancia_km": 0.853
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7149",
+   "id_bdgd": "BDGD:RGE:KUR",
+   "nome_epe": "SE Conversora Uruguaiana",
+   "nome_bdgd": "SE URUGUAIANA 5 - CEEE",
+   "distancia_km": 0.264
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7306",
+   "id_bdgd": "BDGD:RGE:KSH",
+   "nome_epe": "SE Scharlau 2",
+   "nome_bdgd": "SE NOVO HAMBURGO - SCHARLAU CEEE",
+   "distancia_km": 0.211
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7040",
+   "id_bdgd": "BDGD:RGE:KPP",
+   "nome_epe": "SE Pólo Petroquímico",
+   "nome_bdgd": "SE MONTENEGRO 3 - Polo CEEE",
+   "distancia_km": 0.053
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7105",
+   "id_bdgd": "BDGD:RGE:KSF",
+   "nome_epe": "SE São Vicente do Sul",
+   "nome_bdgd": "SE SÃO VICENTE 1 - CEEE",
+   "distancia_km": 0.02
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6793",
+   "id_bdgd": "BDGD:RGE:YRD",
+   "nome_epe": "SE Caxias do Sul 2",
+   "nome_bdgd": "RANDON FREIOS MASTER",
+   "distancia_km": 0.619
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7307",
+   "id_bdgd": "BDGD:RGE:YRD",
+   "nome_epe": "SE Castertech",
+   "nome_bdgd": "RANDON FREIOS MASTER",
+   "distancia_km": 0.937
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6837",
+   "id_bdgd": "BDGD:RGE:YTF",
+   "nome_epe": "SE Farroupilha",
+   "nome_bdgd": "TRAMONTINA FAR",
+   "distancia_km": 0.57
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6771",
+   "id_bdgd": "BDGD:RGE:YSY",
+   "nome_epe": "SE Campo Bom",
+   "nome_bdgd": "LINDE-VERALLIA",
+   "distancia_km": 0.551
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6934",
+   "id_bdgd": "BDGD:RGE:YGD",
+   "nome_epe": "SE Lajeado 2",
+   "nome_bdgd": "SE PERDIGAO 2",
+   "distancia_km": 0.492
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7047",
+   "id_bdgd": "BDGD:RGE:YGF",
+   "nome_epe": "SE Porto Alegre 9",
+   "nome_bdgd": "SE BUNGE FERTILIZANTES",
+   "distancia_km": 0.342
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:6958",
+   "id_bdgd": "BDGD:Santa_Maria:BF",
+   "nome_epe": "SE Mascarenhas",
+   "nome_bdgd": "SE REDE BASICA",
+   "distancia_km": 0.202
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7333",
+   "id_bdgd": "BDGD:Santa_Maria:BF2",
+   "nome_epe": "SE João Neiva 2",
+   "nome_bdgd": "SE REDE BASICA 2",
+   "distancia_km": 0.244
+  },
+  {
+   "motivo": "possivel_duplicata",
+   "id_epe": "EPE:7206",
+   "id_bdgd": "BDGD:Sulgipe:SECH",
+   "nome_epe": "SE Itabaianinha",
+   "nome_bdgd": "SUBESTACAO 69 KV CHESF",
+   "distancia_km": 0.024
+  }
+ ],
+ "fusoes_ambiguas": [
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:7150",
+   "id_bdgd": "BDGD:CEEE_Equatorial:UCH",
+   "nome_epe": "SE Charqueadas",
+   "nome_bdgd": "USINA CHARQUEADAS",
+   "distancia_km": 0.056
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:7051",
+   "id_bdgd": "BDGD:CPFL_Paulista:WPC",
+   "nome_epe": "SE UHE Porto Colômbia",
+   "nome_bdgd": "UHE PORTO COLOMBIA FCE",
+   "distancia_km": 0.048
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6770",
+   "id_bdgd": "BDGD:CPFL_Paulista:TAN",
+   "nome_epe": "SE Campinas",
+   "nome_bdgd": "CAMPINAS 7 - TANQUINHO",
+   "distancia_km": 0.454
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6770",
+   "id_bdgd": "BDGD:CPFL_Paulista:WCA",
+   "nome_epe": "SE Campinas",
+   "nome_bdgd": "CAMPINAS FCE",
+   "distancia_km": 0.261
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6895",
+   "id_bdgd": "BDGD:CPFL_Paulista:WIT",
+   "nome_epe": "SE Itatiba",
+   "nome_bdgd": "ITATIBA TRANSENERGIA (P)",
+   "distancia_km": 0.014
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6869",
+   "id_bdgd": "BDGD:CPFL_Piratininga:KHB",
+   "nome_epe": "SE Henry Borden",
+   "nome_bdgd": "UHE HENRY BORDEN EMAE",
+   "distancia_km": 0.672
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6869",
+   "id_bdgd": "BDGD:CPFL_Piratininga:HBO",
+   "nome_epe": "SE Henry Borden",
+   "nome_bdgd": "CUBATAO 3 - HENRY BORDEN",
+   "distancia_km": 0.482
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6895",
+   "id_bdgd": "BDGD:CPFL_Piratininga:WTT",
+   "nome_epe": "SE Itatiba",
+   "nome_bdgd": "SE ITATIBA TRANSENERGIA",
+   "distancia_km": 0.09
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6869",
+   "id_bdgd": "BDGD:CPFL_Piratininga:SHB",
+   "nome_epe": "SE Henry Borden",
+   "nome_bdgd": "CUBATAO - USINA HENRY BORDEN",
+   "distancia_km": 0.472
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:7166",
+   "id_bdgd": "BDGD:Celesc-Dis:XAN",
+   "nome_epe": "SE Xanxerê",
+   "nome_bdgd": "XANXERÊ ESUL-XAN",
+   "distancia_km": 0.015
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6781",
+   "id_bdgd": "BDGD:Celesc-Dis:CAN",
+   "nome_epe": "SE Canoinhas",
+   "nome_bdgd": "CANOINHAS ESUL-CAN",
+   "distancia_km": 0.103
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6781",
+   "id_bdgd": "BDGD:Celesc-Dis:CIS",
+   "nome_epe": "SE Canoinhas",
+   "nome_bdgd": "CANOINHAS-CIS",
+   "distancia_km": 0.051
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:7166",
+   "id_bdgd": "BDGD:Celesc-Dis:XXE",
+   "nome_epe": "SE Xanxerê",
+   "nome_bdgd": "XANXERÊ-XXE",
+   "distancia_km": 0.212
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6919",
+   "id_bdgd": "BDGD:Celesc-Dis:JOI",
+   "nome_epe": "SE Joinville",
+   "nome_bdgd": "JOINVILLE ESUL-JOI",
+   "distancia_km": 0.005
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6919",
+   "id_bdgd": "BDGD:Celesc-Dis:JVU",
+   "nome_epe": "SE Joinville",
+   "nome_bdgd": "JOINVILLE I-JVU",
+   "distancia_km": 0.153
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:7051",
+   "id_bdgd": "BDGD:Cemig-D:1726757",
+   "nome_epe": "SE UHE Porto Colômbia",
+   "nome_bdgd": "PORTO COLOMBIA",
+   "distancia_km": 0.049
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6774",
+   "id_bdgd": "BDGD:EDP_ES:ETT-CMF",
+   "nome_epe": "SE Campos",
+   "nome_bdgd": "CAMPOS - FURNAS",
+   "distancia_km": 0.01
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6707",
+   "id_bdgd": "BDGD:EDP_SP:APA",
+   "nome_epe": "SE Aparecida",
+   "nome_bdgd": "APARECIDA",
+   "distancia_km": 0.101
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:7101",
+   "id_bdgd": "BDGD:EDP_SP:SJC",
+   "nome_epe": "SE São José dos Campos",
+   "nome_bdgd": "SAO JOSE DOS CAMPOS",
+   "distancia_km": 0.02
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:7101",
+   "id_bdgd": "BDGD:EDP_SP:ETT-SJC",
+   "nome_epe": "SE São José dos Campos",
+   "nome_bdgd": "SAO JOSE DOS CAMPOS",
+   "distancia_km": 0.098
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6707",
+   "id_bdgd": "BDGD:EDP_SP:ETT-APA",
+   "nome_epe": "SE Aparecida",
+   "nome_bdgd": "APARECIDA",
+   "distancia_km": 0.032
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6774",
+   "id_bdgd": "BDGD:Enel_RJ:CAMPOS",
+   "nome_epe": "SE Campos",
+   "nome_bdgd": "Usina de Campos",
+   "distancia_km": 0.06
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:7035",
+   "id_bdgd": "BDGD:Enel_SP:DPRI",
+   "nome_epe": "SE Pirituba",
+   "nome_bdgd": "ETD PIRITUBA",
+   "distancia_km": 0.26
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:7031",
+   "id_bdgd": "BDGD:Enel_SP:TPIR",
+   "nome_epe": "SE Piratininga",
+   "nome_bdgd": "ETT PIRATININGA",
+   "distancia_km": 0.049
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:7031",
+   "id_bdgd": "BDGD:Enel_SP:TPI2",
+   "nome_epe": "SE Piratininga",
+   "nome_bdgd": "ETT PIRATININGA II",
+   "distancia_km": 0.967
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:7035",
+   "id_bdgd": "BDGD:Enel_SP:TPRI",
+   "nome_epe": "SE Pirituba",
+   "nome_bdgd": "ETT PIRITUBA",
+   "distancia_km": 0.051
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6869",
+   "id_bdgd": "BDGD:Enel_SP:UHBO",
+   "nome_epe": "SE Henry Borden",
+   "nome_bdgd": "ETU HENRY BORDEN",
+   "distancia_km": 0.459
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6914",
+   "id_bdgd": "BDGD:Energisa_RO:19318706",
+   "nome_epe": "SE Ji-Paraná",
+   "nome_bdgd": "SE JI PARANA ELN",
+   "distancia_km": 0.031
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6914",
+   "id_bdgd": "BDGD:Energisa_RO:19460408",
+   "nome_epe": "SE Ji-Paraná",
+   "nome_bdgd": "SE JI PARANA II",
+   "distancia_km": 0.193
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:7037",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:PUD",
+   "nome_epe": "SE Pituaçu",
+   "nome_bdgd": "PITUACU II",
+   "distancia_km": 0.803
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:7037",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:DPD",
+   "nome_epe": "SE Pituaçu",
+   "nome_bdgd": "DER. PITUACU II",
+   "distancia_km": 0.702
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6837",
+   "id_bdgd": "BDGD:RGE:FAR",
+   "nome_epe": "SE Farroupilha",
+   "nome_bdgd": "FARROUPILHA 1",
+   "distancia_km": 0.137
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:6837",
+   "id_bdgd": "BDGD:RGE:KFA",
+   "nome_epe": "SE Farroupilha",
+   "nome_bdgd": "FARROUPILHA CEEE",
+   "distancia_km": 0.138
+  },
+  {
+   "motivo": "fusao_ambigua",
+   "id_epe": "EPE:7150",
+   "id_bdgd": "BDGD:RGE:KCQ",
+   "nome_epe": "SE Charqueadas",
+   "nome_bdgd": "USINA TÉRMICA CHARQUEADAS - ESUL",
+   "distancia_km": 0.062
+  }
+ ],
+ "mesmo_nome_1_a_3_km": [
+  {
+   "motivo": "mesmo_nome_1_a_3_km",
+   "id_epe": "EPE:6992",
+   "id_bdgd": "BDGD:Cemig-D:1726627",
+   "nome_epe": "SE Nova Ponte",
+   "nome_bdgd": "NOVA PONTE",
+   "distancia_km": 1.076
+  },
+  {
+   "motivo": "mesmo_nome_1_a_3_km",
+   "id_epe": "EPE:7104",
+   "id_bdgd": "BDGD:Cemig-D:1726681",
+   "nome_epe": "SE São Simão",
+   "nome_bdgd": "SAO SIMAO",
+   "distancia_km": 2.987
+  },
+  {
+   "motivo": "mesmo_nome_1_a_3_km",
+   "id_epe": "EPE:7452",
+   "id_bdgd": "BDGD:EDP_SP:LOR",
+   "nome_epe": "SE Lorena",
+   "nome_bdgd": "LORENA",
+   "distancia_km": 2.468
+  },
+  {
+   "motivo": "mesmo_nome_1_a_3_km",
+   "id_epe": "EPE:8006",
+   "id_bdgd": "BDGD:Enel_CE:MTI",
+   "nome_epe": "SE Mauriti",
+   "nome_bdgd": "MAURITI",
+   "distancia_km": 2.576
+  },
+  {
+   "motivo": "mesmo_nome_1_a_3_km",
+   "id_epe": "EPE:6940",
+   "id_bdgd": "BDGD:Energisa_MT:70",
+   "nome_epe": "SE Lucas do Rio Verde",
+   "nome_bdgd": "SE LUCAS DO RIO VERDE 138KV",
+   "distancia_km": 2.996
+  },
+  {
+   "motivo": "mesmo_nome_1_a_3_km",
+   "id_epe": "EPE:6813",
+   "id_bdgd": "BDGD:Energisa_PB:12912329",
+   "nome_epe": "SE Coremas",
+   "nome_bdgd": "SE COREMAS",
+   "distancia_km": 1.585
+  },
+  {
+   "motivo": "mesmo_nome_1_a_3_km",
+   "id_epe": "EPE:6910",
+   "id_bdgd": "BDGD:Energisa_RO:13101002",
+   "nome_epe": "SE Jaru",
+   "nome_bdgd": "SE JARU",
+   "distancia_km": 1.943
+  },
+  {
+   "motivo": "mesmo_nome_1_a_3_km",
+   "id_epe": "EPE:7169",
+   "id_bdgd": "BDGD:Energisa_SE:30290950",
+   "nome_epe": "SE Xingó",
+   "nome_bdgd": "XINGO",
+   "distancia_km": 1.892
+  },
+  {
+   "motivo": "mesmo_nome_1_a_3_km",
+   "id_epe": "EPE:6744",
+   "id_bdgd": "BDGD:Equatorial_MA:BES",
+   "nome_epe": "SE Boa Esperança",
+   "nome_bdgd": "BOA ESPERANCA",
+   "distancia_km": 2.684
+  },
+  {
+   "motivo": "mesmo_nome_1_a_3_km",
+   "id_epe": "EPE:7057",
+   "id_bdgd": "BDGD:Equatorial_MA:PDT",
+   "nome_epe": "SE Presidente Dutra",
+   "nome_bdgd": "PRESIDENTE DUTRA",
+   "distancia_km": 2.49
+  },
+  {
+   "motivo": "mesmo_nome_1_a_3_km",
+   "id_epe": "EPE:7264",
+   "id_bdgd": "BDGD:Equatorial_MA:SAL",
+   "nome_epe": "SE Santo Antonio dos Lopes",
+   "nome_bdgd": "SANTO ANTONIO DOS LOPES",
+   "distancia_km": 1.207
+  },
+  {
+   "motivo": "mesmo_nome_1_a_3_km",
+   "id_epe": "EPE:7099",
+   "id_bdgd": "BDGD:Equatorial_PI:SJP",
+   "nome_epe": "SE São João do Piauí",
+   "nome_bdgd": "SAO JOAO DO PIAUI",
+   "distancia_km": 1.594
+  },
+  {
+   "motivo": "mesmo_nome_1_a_3_km",
+   "id_epe": "EPE:7116",
+   "id_bdgd": "BDGD:Neoenergia_Coelba:SBO",
+   "nome_epe": "SE Sobradinho",
+   "nome_bdgd": "SOBRADINHO",
+   "distancia_km": 2.747
+  }
+ ],
+ "sem_uf": {
+  "subestacoes": [
+   "EPE:7232",
+   "BDGD:Enel_CE:MCP",
+   "BDGD:Enel_CE:MDD",
+   "BDGD:Enel_CE:MNF",
+   "BDGD:Light:1222",
+   "BDGD:Light:10386087"
+  ],
+  "usinas": []
+ },
+ "uf_divergente": [
+  {
+   "id": "BIODIESEL:1058",
+   "uf_declarada": "MS",
+   "uf_coordenada": "MT"
+  },
+  {
+   "id": "BIODIESEL:1113",
+   "uf_declarada": "SP",
+   "uf_coordenada": "MT"
+  }
+ ],
+ "aceitar_queda": null
+}
