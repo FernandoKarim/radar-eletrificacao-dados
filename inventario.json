@@ -545,8 +545,9 @@
   }
  },
  "percentuais": {
-  "subestacoes_com_capacidade": 0.0,
+  "subestacoes_com_capacidade": 71.2,
   "subestacoes_com_carga": 0.0,
+  "linhas_com_capacidade": 92.8,
   "usinas_com_coordenada_pesquisada": 3.3
  },
  "descartados": {
