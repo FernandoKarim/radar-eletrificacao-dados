@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-11-04T18:02:22-03:00",
+  "gerado_em": "2026-11-05T11:22:32-03:00",
   "fontes": {
     "EPE": {
       "baixado_em": "2026-11-03",
       "url": "https://gisepeprd2.epe.gov.br/arcgis/rest/services/WMS_Webmap_EPE_Data/MapServer"
     },
     "BDGD": {
-      "baixado_em": "2026-11-04",
+      "baixado_em": "2026-11-05",
       "url": "https://dadosabertos-aneel.opendata.arcgis.com/api/search/v1/collections/all/items",
       "ano_referencia": {
         "Amazonas_Energia": 2025,
